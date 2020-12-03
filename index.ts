@@ -16,6 +16,7 @@ const lastCol = HEADER_COL + COLS_TO_SCAN;
 
 const boons = {};
 const gods = [];
+const colToGod = {};
 
 let i;
 for (i = HEADER_ROW; i < lastRow; i++) {
@@ -33,14 +34,16 @@ for (i = HEADER_ROW; i < lastRow; i++) {
     // Handle header row
     if (i === HEADER_ROW && !!cellData) {
       gods.push(cellData);
+      colToGod[j] = cellData;
       continue;
     }
 
     // Store new boon names
-    if ((i - HEADER_ROW - 1) % 6 === 0) {
+    if ((i - HEADER_ROW - 1) % 6 === 0 && !!cellData) {
       boons[cellData] = {
         id: cellData,
         name: cellData,
+        god: colToGod[j],
       };
       continue;
     }

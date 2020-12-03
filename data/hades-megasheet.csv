@@ -1,7 +1,7 @@
 ,,,,,,,,,,,,
 ,,,"MAIN TODO: figure out how to sort non-slot boons into ""requires tier 1"" / ""does not require tier 1"" while still maintaining some logic of existing categories",,,,,,,,,
 ,,,Zeus,Poseidon,Athena,Ares,Artemis,Aphrodite,Dionysus,Demeter,Hermes,Chaos
-,SLOTS,Attack,Lightning Strike,Tempest Strike,Divine Strike,Curse of Agony,Deadly Strike,Heartbreak Strike,Drunken Strike,Frost Strike,Swift Strike,Strike
+,SLOTS,Attack,Lightning Strike,Tempest Strike,Divine Strike,Curse of Agony,Deadly Strike,Heartbreak Strike,Drunken Strike,Frost Strike,Swift Strike,Chaos Strike
 ,,,emits chain-lightning (4) when you damage a foe,"more damage and
 knock foes away",more damage and deflects,inflicts doom (1.1s),"more damage
 +15% chance to crit",more damage and inflict weak (-30% attack for 4s),"inflicts hangover (stack 5,
@@ -11,7 +11,7 @@ damage every 0.5s for 4s)","more damage and chill
 ,,rare,12.5,+45%,+45%,75,+30%,+75%,5,+60%,+21.25%,16-37.5%
 ,,epic,15,+50%,+50%,100,+40%,+100%,6,+80%,+30%,24-50%
 ,,heroic,20,+75%,+75%,125,+50%,+125%,8,+100%,+38.75%,n/a
-,,Special,Thunder Flourish,Tempest Flourish,Divine Flourish,Curse of Pain,Deadly Flourish,Heartbreah Flourish,Drunken Flourish,Frost Flourish,Swift Flourish,Flourish
+,,Special,Thunder Flourish,Tempest Flourish,Divine Flourish,Curse of Pain,Deadly Flourish,Heartbreah Flourish,Drunken Flourish,Frost Flourish,Swift Flourish,Chaos Flourish
 ,,,causes a lightning bolt to strike nearby foes,"more damage and
 knock foes away",more damage and deflects,inflicts doom (1.1s),"more damage
 +20% chance to crit",more damage and inflict weak (-30% attack for 4s),"inflicts hangover (stack 5,
@@ -21,7 +21,7 @@ damage every 0.5s for 4s)","more damage and chill
 ,,rare,37.5,+105%,+90%,80,+60%,+120%,6,+90%,+21.25%,22-52.5%
 ,,epic,45,+105%,+120%,100,+80%,+160%,7,+120%,+30%,32-70%
 ,,heroic,60,+175%,+150%,120,+100%,+200%,8,+150%,+38.75%,n/a
-,,Cast,Electric Shot,Flood Shot,Phalanx Shot,Slicing Shot,True Shot,Crush Shot,Trippy Shot,Crystal Beam,Flurry Cast,Shot
+,,Cast,Electric Shot,Flood Shot,Phalanx Shot,Slicing Shot,True Shot,Crush Shot,Trippy Shot,Crystal Beam,Flurry Cast,Chaos Shot
 ,,,burst of chain-lightning (5) that bounces between foes,"damages foes in an area and
 knocks them away","damages foes in an area
 and deflects","sends a blade rift
@@ -34,7 +34,7 @@ does not lodge into enemy",your cast is faster and fully automatic,your cast dea
 ,,rare,72,72,102,11,80,99,120,9.2,+40%,16-37.5%
 ,,epic,84,84,119,13,90,108,140,10.4,+60%,24-50%
 ,,heroic,96,96,136,14,100,117,160,11.6,+80%,n/a
-,,Dash,Thunder Dash,Tidal Dash,Divine Dash,Blade Dash,Hunter Dash,Passion Dash,Drunken Dash,Mistral Dash,Greatest Reflex,Lunge
+,,Dash,Thunder Dash,Tidal Dash,Divine Dash,Blade Dash,Hunter Dash,Passion Dash,Drunken Dash,Mistral Dash,Greatest Reflex,Chaos Lunge
 ,,,causes a lightning bolt to strike nearby foes,"damages foes in an area and
 knocks them away",deals damage and deflects,create a blade rift at start (damage every 0.1s for 0.7s),dash-strike deals more damage,"inflict damage and weak
 at end of dash","inflicts hangover (stack 5,
@@ -133,6 +133,9 @@ replenish 1 charge",,,,using fountains restores all your health and gives you bo
 ,,,"all lightning effects create an additional burst (5 bounces, 40 damage)",knock-away effects shove foes a second time 0.7s after the first,gain a barrier that negates incoming damage (20s cooldown),blade rift effects deal 1 more damage for each consecutive hit,gain +2 cast gems,weak effects also have a 15% chance to charm,hangover-afflicted foes take +100% bonus damage in festive fog,"chill-affected foes shatter at 10% health, inflicting 50 damage and chill nearby",cast gems automatically return to you,gain +1 death defiance
 ,,,,,,,,,,,Bad News,
 ,,,,,,,,,,,cast deals 50% more damage to foes without cast gems in them,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,DUOS,Zeus,,Sea Storm,Lightning Phalanx (C),Vengeful Mood (R),Lightning Rod,Smoldering Air,Scintillating Feast (C),"need jolted
 (Zeus' Static Discharge)",,
