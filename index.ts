@@ -28,18 +28,26 @@ function processCsvData() {
 
     let j;
     let rowBoonSlot = "";
+    let rowIsRevengeBoons = false;
+    let rowIsLegendaryBoons = false;
     for (j = HEADER_COL; j < row.length; j++) {
       const cellData = cleanText(row[j]);
 
       // Handle header column
       if (j === HEADER_COL) {
         // On every 6th row,
-        if ((i - HEADER_ROW - 1) % 6 === 0 &&
+        if ((i - HEADER_ROW - 1) % 6 === 0) {
           // check the value in the header column for a valid boon slot value
-          VALID_SLOT_NAMES.includes(cellData)) {
-          rowBoonSlot = cellData;
-        } else {
-          rowBoonSlot = "";
+          if (VALID_SLOT_NAMES.includes(cellData)) {
+            rowBoonSlot = cellData;
+            continue;
+          } else {
+            rowBoonSlot = "";
+          }
+
+          // Also check for revenge and legendary status
+          rowIsRevengeBoons = cellData === "Revenge";
+          rowIsLegendaryBoons = cellData === "Legendary";
         }
 
         continue;
@@ -63,6 +71,8 @@ function processCsvData() {
           god: colToGod[j],
           description: "",
           slot: rowBoonSlot,
+          revenge: rowIsRevengeBoons,
+          legendary: rowIsLegendaryBoons,
           rarityData: {},
           prereqs: [],
         };
@@ -93,7 +103,7 @@ function processCsvData() {
 }
 
 function writeBoonData(boons) {
-  fs.writeFileSync("output/boons.json", JSON.stringify(boons));
+  fs.writeFileSync("output/boons.json", JSON.stringify(boons, null, 2));
 }
 
 function main() {
