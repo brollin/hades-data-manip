@@ -4,6 +4,7 @@
     "name": "Lightning Strike",
     "god": "Zeus",
     "description": "emits chain-lightning (4) when you damage a foe",
+    "slot": "Attack",
     "rarityData": {
       "common": "10",
       "rare": "12.5",
@@ -17,6 +18,7 @@
     "name": "Tempest Strike",
     "god": "Poseidon",
     "description": "more damage and knock foes away",
+    "slot": "Attack",
     "rarityData": {
       "common": "+30%",
       "rare": "+45%",
@@ -30,6 +32,7 @@
     "name": "Divine Strike",
     "god": "Athena",
     "description": "more damage and deflects",
+    "slot": "Attack",
     "rarityData": {
       "common": "+30%",
       "rare": "+45%",
@@ -43,6 +46,7 @@
     "name": "Curse of Agony",
     "god": "Ares",
     "description": "inflicts doom (1.1s)",
+    "slot": "Attack",
     "rarityData": {
       "common": "50",
       "rare": "75",
@@ -56,6 +60,7 @@
     "name": "Deadly Strike",
     "god": "Artemis",
     "description": "more damage +15% chance to crit",
+    "slot": "Attack",
     "rarityData": {
       "common": "+20%",
       "rare": "+30%",
@@ -69,6 +74,7 @@
     "name": "Heartbreak Strike",
     "god": "Aphrodite",
     "description": "more damage and inflict weak (-30% attack for 4s)",
+    "slot": "Attack",
     "rarityData": {
       "common": "+50%",
       "rare": "+75%",
@@ -82,6 +88,7 @@
     "name": "Drunken Strike",
     "god": "Dionysus",
     "description": "inflicts hangover (stack 5, damage every 0.5s for 4s)",
+    "slot": "Attack",
     "rarityData": {
       "common": "4",
       "rare": "5",
@@ -95,6 +102,7 @@
     "name": "Frost Strike",
     "god": "Demeter",
     "description": "more damage and chill (4% slow for 8s, stack 10)",
+    "slot": "Attack",
     "rarityData": {
       "common": "+40%",
       "rare": "+60%",
@@ -108,6 +116,7 @@
     "name": "Swift Strike",
     "god": "Hermes",
     "description": "your attack is faster",
+    "slot": "Attack",
     "rarityData": {
       "common": "+12.5%",
       "rare": "+21.25%",
@@ -121,6 +130,7 @@
     "name": "Chaos Strike",
     "god": "Chaos",
     "description": "your attack deals more damage",
+    "slot": "Attack",
     "rarityData": {
       "common": "15-25%",
       "rare": "16-37.5%",
@@ -134,6 +144,7 @@
     "name": "Thunder Flourish",
     "god": "Zeus",
     "description": "causes a lightning bolt to strike nearby foes",
+    "slot": "Special",
     "rarityData": {
       "common": "30",
       "rare": "37.5",
@@ -147,6 +158,7 @@
     "name": "Tempest Flourish",
     "god": "Poseidon",
     "description": "more damage and knock foes away",
+    "slot": "Special",
     "rarityData": {
       "common": "+70%",
       "rare": "+105%",
@@ -160,6 +172,7 @@
     "name": "Divine Flourish",
     "god": "Athena",
     "description": "more damage and deflects",
+    "slot": "Special",
     "rarityData": {
       "common": "+60%",
       "rare": "+90%",
@@ -173,6 +186,7 @@
     "name": "Curse of Pain",
     "god": "Ares",
     "description": "inflicts doom (1.1s)",
+    "slot": "Special",
     "rarityData": {
       "common": "60",
       "rare": "80",
@@ -186,6 +200,7 @@
     "name": "Deadly Flourish",
     "god": "Artemis",
     "description": "more damage +20% chance to crit",
+    "slot": "Special",
     "rarityData": {
       "common": "+40%",
       "rare": "+60%",
@@ -199,6 +214,7 @@
     "name": "Heartbreah Flourish",
     "god": "Aphrodite",
     "description": "more damage and inflict weak (-30% attack for 4s)",
+    "slot": "Special",
     "rarityData": {
       "common": "+80%",
       "rare": "+120%",
@@ -212,6 +228,7 @@
     "name": "Drunken Flourish",
     "god": "Dionysus",
     "description": "inflicts hangover (stack 5, damage every 0.5s for 4s)",
+    "slot": "Special",
     "rarityData": {
       "common": "5",
       "rare": "6",
@@ -225,6 +242,7 @@
     "name": "Frost Flourish",
     "god": "Demeter",
     "description": "more damage and chill (4% slow for 8s, stack 10)",
+    "slot": "Special",
     "rarityData": {
       "common": "+60%",
       "rare": "+90%",
@@ -238,6 +256,7 @@
     "name": "Swift Flourish",
     "god": "Hermes",
     "description": "your special is faster",
+    "slot": "Special",
     "rarityData": {
       "common": "+12.5%",
       "rare": "+21.25%",
@@ -251,6 +270,7 @@
     "name": "Chaos Flourish",
     "god": "Chaos",
     "description": "your special deals more damage",
+    "slot": "Special",
     "rarityData": {
       "common": "20-35%",
       "rare": "22-52.5%",
@@ -264,6 +284,7 @@
     "name": "Electric Shot",
     "god": "Zeus",
     "description": "burst of chain-lightning (5) that bounces between foes",
+    "slot": "Cast",
     "rarityData": {
       "common": "60",
       "rare": "72",
@@ -277,6 +298,7 @@
     "name": "Flood Shot",
     "god": "Poseidon",
     "description": "damages foes in an area and knocks them away",
+    "slot": "Cast",
     "rarityData": {
       "common": "60",
       "rare": "72",
@@ -290,6 +312,7 @@
     "name": "Phalanx Shot",
     "god": "Athena",
     "description": "damages foes in an area and deflects",
+    "slot": "Cast",
     "rarityData": {
       "common": "85",
       "rare": "102",
@@ -303,6 +326,7 @@
     "name": "Slicing Shot",
     "god": "Ares",
     "description": "sends a blade rift (damage every 0.1s for 4s)\r does not lodge into enemy",
+    "slot": "Cast",
     "rarityData": {
       "common": "10",
       "rare": "11",
@@ -316,6 +340,7 @@
     "name": "True Shot",
     "god": "Artemis",
     "description": "fire an unblockable seeking arrow with 10% crit chance",
+    "slot": "Cast",
     "rarityData": {
       "common": "70",
       "rare": "80",
@@ -329,6 +354,7 @@
     "name": "Crush Shot",
     "god": "Aphrodite",
     "description": "wide, short-range blast that inflicts weak",
+    "slot": "Cast",
     "rarityData": {
       "common": "90",
       "rare": "99",
@@ -342,6 +368,7 @@
     "name": "Trippy Shot",
     "god": "Dionysus",
     "description": "lobs a projectile that bursts into festive fog does not lodge into enemy",
+    "slot": "Cast",
     "rarityData": {
       "common": "100",
       "rare": "120",
@@ -355,6 +382,7 @@
     "name": "Crystal Beam",
     "god": "Demeter",
     "description": "crystal that fires a beam (damage every 0.2s for 5s) does not lodge into enemy",
+    "slot": "Cast",
     "rarityData": {
       "common": "8",
       "rare": "9.2",
@@ -368,6 +396,7 @@
     "name": "Flurry Cast",
     "god": "Hermes",
     "description": "your cast is faster and fully automatic",
+    "slot": "Cast",
     "rarityData": {
       "common": "+20%",
       "rare": "+40%",
@@ -381,6 +410,7 @@
     "name": "Chaos Shot",
     "god": "Chaos",
     "description": "your cast deals more damage",
+    "slot": "Cast",
     "rarityData": {
       "common": "15-25%",
       "rare": "16-37.5%",
@@ -394,6 +424,7 @@
     "name": "Thunder Dash",
     "god": "Zeus",
     "description": "causes a lightning bolt to strike nearby foes",
+    "slot": "Dash",
     "rarityData": {
       "common": "10",
       "rare": "13.3",
@@ -407,6 +438,7 @@
     "name": "Tidal Dash",
     "god": "Poseidon",
     "description": "damages foes in an area and knocks them away",
+    "slot": "Dash",
     "rarityData": {
       "common": "35",
       "rare": "42",
@@ -420,6 +452,7 @@
     "name": "Divine Dash",
     "god": "Athena",
     "description": "deals damage and deflects",
+    "slot": "Dash",
     "rarityData": {
       "common": "10",
       "rare": "12",
@@ -433,6 +466,7 @@
     "name": "Blade Dash",
     "god": "Ares",
     "description": "create a blade rift at start (damage every 0.1s for 0.7s)",
+    "slot": "Dash",
     "rarityData": {
       "common": "5",
       "rare": "6",
@@ -446,6 +480,7 @@
     "name": "Hunter Dash",
     "god": "Artemis",
     "description": "dash-strike deals more damage",
+    "slot": "Dash",
     "rarityData": {
       "common": "+50%",
       "rare": "+75%",
@@ -459,6 +494,7 @@
     "name": "Passion Dash",
     "god": "Aphrodite",
     "description": "inflict damage and weak at end of dash",
+    "slot": "Dash",
     "rarityData": {
       "common": "20",
       "rare": "24",
@@ -472,6 +508,7 @@
     "name": "Drunken Dash",
     "god": "Dionysus",
     "description": "inflicts hangover (stack 5, damage every 0.5s for 4s)",
+    "slot": "Dash",
     "rarityData": {
       "common": "2",
       "rare": "3",
@@ -485,6 +522,7 @@
     "name": "Mistral Dash",
     "god": "Demeter",
     "description": "shoot a gust ahead that inflicts chill",
+    "slot": "Dash",
     "rarityData": {
       "common": "15",
       "rare": "22.5",
@@ -498,6 +536,7 @@
     "name": "Greatest Reflex",
     "god": "Hermes",
     "description": "dash more times in a row",
+    "slot": "Dash",
     "rarityData": {
       "common": "+1",
       "rare": "+2",
@@ -511,6 +550,7 @@
     "name": "Chaos Lunge",
     "god": "Chaos",
     "description": "your dash-attack deals more damage",
+    "slot": "Dash",
     "rarityData": {
       "common": "20-35%",
       "rare": "22-52.5%",
@@ -524,6 +564,7 @@
     "name": "Zeus's Aid",
     "god": "Zeus",
     "description": "lightning strikes nearby foes repeatedly for 1.5s (max 9s)",
+    "slot": "Call",
     "rarityData": {
       "common": "60",
       "rare": "66",
@@ -537,6 +578,7 @@
     "name": "Poseidon's Aid",
     "god": "Poseidon",
     "description": "surge into foes while impervious for 1.2s (max 7.2s)",
+    "slot": "Call",
     "rarityData": {
       "common": "250",
       "rare": "300",
@@ -550,6 +592,7 @@
     "name": "Athena's Aid",
     "god": "Athena",
     "description": "makes you invulnerable and deflects all attacks",
+    "slot": "Call",
     "rarityData": {
       "common": "1.5s",
       "rare": "1.65s",
@@ -563,6 +606,7 @@
     "name": "Ares' Aid",
     "god": "Ares",
     "description": "turn into an invulnerable rift blade for 2.5s (max 15s)",
+    "slot": "Call",
     "rarityData": {
       "common": "15",
       "rare": "18",
@@ -576,6 +620,7 @@
     "name": "Artemis's Aid",
     "god": "Artemis",
     "description": "fire 1 unblockable seeking arrow (max 10) with +35% crit",
+    "slot": "Call",
     "rarityData": {
       "common": "100",
       "rare": "110",
@@ -589,6 +634,7 @@
     "name": "Aphrodite's Aid",
     "god": "Aphrodite",
     "description": "fire a seeking piercing projectile that inflicts charm",
+    "slot": "Call",
     "rarityData": {
       "common": "5",
       "rare": "5.5",
@@ -602,6 +648,7 @@
     "name": "Dionysus's Aid",
     "god": "Dionysus",
     "description": "inflict hangover to all foes around you for 1.5s (max 9s)",
+    "slot": "Call",
     "rarityData": {
       "common": "15",
       "rare": "16.5",
@@ -615,6 +662,7 @@
     "name": "Demeter's Aid",
     "god": "Demeter",
     "description": "create a winter vortex that chills and damages every 0.25s for 5s (max 15s)",
+    "slot": "Call",
     "rarityData": {
       "common": "15",
       "rare": "22.5",
@@ -628,6 +676,7 @@
     "name": "Second Wind",
     "god": "Hermes",
     "description": "after using call, gain dodge chance and move speed for 6s",
+    "slot": "Call",
     "rarityData": {
       "common": "+30%",
       "rare": "+37.5%",
@@ -641,6 +690,7 @@
     "name": "Static Discharge",
     "god": "Zeus",
     "description": "lightning effects also cause jolted (next attack self-inflicts damage)",
+    "slot": "",
     "rarityData": {
       "common": "60",
       "rare": "90",
@@ -654,6 +704,7 @@
     "name": "Razor Shoals",
     "god": "Poseidon",
     "description": "knock-away effects also cause rupture (take damage every 0.2s while moving)",
+    "slot": "",
     "rarityData": {
       "common": "5",
       "rare": "7.5",
@@ -667,6 +718,7 @@
     "name": "Blinding Flash",
     "god": "Athena",
     "description": "deflect also makes foes exposed for 5s (take more damage from behind)",
+    "slot": "",
     "rarityData": {
       "common": "+50%",
       "rare": "+62.5%",
@@ -680,6 +732,7 @@
     "name": "Dire Misfortune",
     "god": "Ares",
     "description": "NOT a status curse doom effects deal more damage when applied multiple times",
+    "slot": "",
     "rarityData": {
       "common": "5",
       "rare": "7.5",
@@ -693,6 +746,7 @@
     "name": "Hunter's Mark",
     "god": "Artemis",
     "description": "after dealing critical damage, a foe near it is marked (higher chance of crit for 2.5s)",
+    "slot": "",
     "rarityData": {
       "common": "+30%",
       "rare": "+45%",
@@ -706,6 +760,7 @@
     "name": "Sweet Surrender",
     "god": "Aphrodite",
     "description": "weak-afflicted foes are more susceptible to damage",
+    "slot": "",
     "rarityData": {
       "common": "+10%",
       "rare": "+15%",
@@ -719,6 +774,7 @@
     "name": "Numbing Sensation",
     "god": "Dionysus",
     "description": "NOT a status curse hangover effects also makes foes move slower for 4s",
+    "slot": "",
     "rarityData": {
       "common": "-15%",
       "rare": "-22.5%",
@@ -732,6 +788,7 @@
     "name": "Killing Freeze",
     "god": "Demeter",
     "description": "NOT a status curse applying chill to all enemies causes them to slow and decay (every 0.5s)",
+    "slot": "",
     "rarityData": {
       "common": "-10%, 20",
       "rare": "-15%, 30",
@@ -745,6 +802,7 @@
     "name": "Hyper Sprint",
     "god": "Hermes",
     "description": "after a dash, gain +% move speed and sturdy for a certain amount of time",
+    "slot": "",
     "rarityData": {
       "common": "+50%, 0.5s",
       "rare": "+70%, 0.75s",
@@ -758,6 +816,7 @@
     "name": "Soul",
     "god": "Chaos",
     "description": "gain health",
+    "slot": "",
     "rarityData": {
       "common": "15-20",
       "rare": "16-30",
@@ -771,6 +830,7 @@
     "name": "Storm Lightning",
     "god": "Zeus",
     "description": "chain-lightning effects bounce more times before expiring",
+    "slot": "",
     "rarityData": {
       "common": "+2",
       "rare": "+4",
@@ -784,6 +844,7 @@
     "name": "Wave Pounding",
     "god": "Poseidon",
     "description": "boons with knock-away effects deal bonus damage to bosses",
+    "slot": "",
     "rarityData": {
       "common": "+10%",
       "rare": "+20%",
@@ -797,6 +858,7 @@
     "name": "Brilliant Riposte",
     "god": "Athena",
     "description": "when you deflect attacks, they deal more damage",
+    "slot": "",
     "rarityData": {
       "common": "+80%",
       "rare": "+120%",
@@ -809,6 +871,7 @@
     "name": "Impending Doom",
     "god": "Ares",
     "description": "doom effects deal more damage, after +0.5s",
+    "slot": "",
     "rarityData": {
       "common": "+60%",
       "rare": "+66%",
@@ -822,6 +885,7 @@
     "name": "Pressure Points",
     "god": "Artemis",
     "description": "any damage your deal has a chance to be critical",
+    "slot": "",
     "rarityData": {
       "common": "+3%",
       "rare": "+4%",
@@ -835,6 +899,7 @@
     "name": "Broken Resolve",
     "god": "Aphrodite",
     "description": "weak effects are more potent (more damage reduction)",
+    "slot": "",
     "rarityData": {
       "common": "-10%",
       "rare": "-12.5%",
@@ -848,6 +913,7 @@
     "name": "Peer Pressure",
     "god": "Dionysus",
     "description": "hangover-afflicted foes contaminate other nearby foes every 4s",
+    "slot": "",
     "rarityData": {
       "common": "4",
       "rare": "6",
@@ -861,6 +927,7 @@
     "name": "Arctic Blast",
     "god": "Demeter",
     "description": "applying 10 stacks of chill causes a blast, clearing the effect",
+    "slot": "",
     "rarityData": {
       "common": "100",
       "rare": "120",
@@ -874,6 +941,7 @@
     "name": "Greater Haste",
     "god": "Hermes",
     "description": "move faster",
+    "slot": "",
     "rarityData": {
       "common": "+20%",
       "rare": "+30%",
@@ -887,6 +955,7 @@
     "name": "Assault",
     "god": "Chaos",
     "description": "deal bonus damage striking undamaged foes",
+    "slot": "",
     "rarityData": {
       "heroic": "n/a"
     },
@@ -897,6 +966,7 @@
     "name": "High Voltage",
     "god": "Zeus",
     "description": "lightning bolt effects deal damage in a larger area",
+    "slot": "",
     "rarityData": {
       "common": "+60%",
       "rare": "+72%",
@@ -910,6 +980,7 @@
     "name": "Typhoon's Fury",
     "god": "Poseidon",
     "description": "deal more damage when slamming foes into barriers",
+    "slot": "",
     "rarityData": {
       "common": "300%",
       "rare": "350%",
@@ -923,6 +994,7 @@
     "name": "Black Metal",
     "god": "Ares",
     "description": "blade rift deals damage in a wider area",
+    "slot": "",
     "rarityData": {
       "common": "+20%",
       "rare": "+22%",
@@ -936,6 +1008,7 @@
     "name": "Clean Kill",
     "god": "Artemis",
     "description": "critical effects deal even more damage",
+    "slot": "",
     "rarityData": {
       "common": "+15%",
       "rare": "+22.5%",
@@ -949,6 +1022,7 @@
     "name": "Empty Inside",
     "god": "Aphrodite",
     "description": "weak effects have longer duration",
+    "slot": "",
     "rarityData": {
       "common": "+5s",
       "rare": "+7.5s",
@@ -962,6 +1036,7 @@
     "name": "Bad Influence",
     "god": "Dionysus",
     "description": "deal more damage while 3 foes are hangover-afflicted",
+    "slot": "",
     "rarityData": {
       "common": "+50%",
       "rare": "+75%",
@@ -975,6 +1050,7 @@
     "name": "Glacial Glare (C)",
     "god": "Demeter",
     "description": "your cast fires for a longer duration and inflicts chill",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -983,6 +1059,7 @@
     "name": "Rush Delivery",
     "god": "Hermes",
     "description": "deal bonus damage based on any bonus move speed",
+    "slot": "",
     "rarityData": {
       "common": "+15%",
       "rare": "+20%",
@@ -996,6 +1073,7 @@
     "name": "Ambush",
     "god": "Chaos",
     "description": "deal bonus damage striking foes from behind",
+    "slot": "",
     "rarityData": {
       "heroic": "n/a"
     },
@@ -1006,6 +1084,7 @@
     "name": "Double Strike",
     "god": "Zeus",
     "description": "lightning bolt effects have a chance to strike twice",
+    "slot": "",
     "rarityData": {
       "common": "+25%",
       "rare": "+30%",
@@ -1019,6 +1098,7 @@
     "name": "Breaking Wave",
     "god": "Poseidon",
     "description": "slamming foes into walls or corners creates a watery blast in the area which stuns",
+    "slot": "",
     "rarityData": {
       "common": "100",
       "rare": "150",
@@ -1032,6 +1112,7 @@
     "name": "Engulfing Vortex",
     "god": "Ares",
     "description": "blade rift lasts longer and pulls foes in",
+    "slot": "",
     "rarityData": {
       "common": "+0.2s",
       "rare": "+0.3s",
@@ -1045,6 +1126,7 @@
     "name": "Hide Breaker",
     "god": "Artemis",
     "description": "critical effects deal even more damage to armor",
+    "slot": "",
     "rarityData": {
       "common": "+200%",
       "rare": "+300%",
@@ -1058,6 +1140,7 @@
     "name": "Blown Kiss (C)",
     "god": "Aphrodite",
     "description": "your cast shoots farther and is stronger against undamaged foes",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1066,6 +1149,7 @@
     "name": "High Tolerance (C)",
     "god": "Dionysus",
     "description": "take less damage while standing in festive fog",
+    "slot": "",
     "rarityData": {
       "common": "-15%",
       "rare": "-22.5%",
@@ -1079,6 +1163,7 @@
     "name": "Heaven's Vengeance",
     "god": "Zeus",
     "description": "... your foe is struck by lightning",
+    "slot": "",
     "rarityData": {
       "common": "80",
       "rare": "120",
@@ -1092,6 +1177,7 @@
     "name": "Holy Shield",
     "god": "Athena",
     "description": "... damage nearby foes and deflect",
+    "slot": "",
     "rarityData": {
       "common": "30",
       "rare": "45",
@@ -1105,6 +1191,7 @@
     "name": "Curse of Vengeance",
     "god": "Ares",
     "description": "... inflict doom on surrounding foes",
+    "slot": "",
     "rarityData": {
       "common": "90",
       "rare": "99",
@@ -1118,6 +1205,7 @@
     "name": "Wave of Despair",
     "god": "Aphrodite",
     "description": "... damage nearby foes and inflict weak",
+    "slot": "",
     "rarityData": {
       "common": "50",
       "rare": "75",
@@ -1131,6 +1219,7 @@
     "name": "Frozen Touch",
     "god": "Demeter",
     "description": "... damage and completely chill  your foe",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1139,6 +1228,7 @@
     "name": "Quick Recovery",
     "god": "Hermes",
     "description": "... quickly dash to recover some health lost",
+    "slot": "",
     "rarityData": {
       "common": "20%",
       "rare": "30%",
@@ -1152,6 +1242,7 @@
     "name": "Ruin",
     "god": "Chaos",
     "description": "traps deal bonus damage to foes",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1160,6 +1251,7 @@
     "name": "Lightning Reflexes",
     "god": "Zeus",
     "description": "dash just before being hit to counter-attack with a lightning bolt",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1168,6 +1260,7 @@
     "name": "Hydraulic Might",
     "god": "Poseidon",
     "description": "attack and special are stronger in the first 5 seconds of encounters",
+    "slot": "",
     "rarityData": {
       "rare": "+174%"
     },
@@ -1178,6 +1271,7 @@
     "name": "Bronze Skin",
     "god": "Athena",
     "description": "resist damage from foes' attacks",
+    "slot": "",
     "rarityData": {
       "common": "-5%",
       "rare": "-7.5%",
@@ -1191,6 +1285,7 @@
     "name": "Urge to Kill",
     "god": "Ares",
     "description": "attack and cast deal more damage",
+    "slot": "",
     "rarityData": {
       "common": "+8%",
       "rare": "+10%",
@@ -1204,6 +1299,7 @@
     "name": "Support Fire",
     "god": "Artemis",
     "description": "after you hit with an attack, cast, or special, fire an unblockable seeking arrow",
+    "slot": "",
     "rarityData": {
       "common": "10",
       "rare": "12",
@@ -1217,6 +1313,7 @@
     "name": "Different League",
     "god": "Aphrodite",
     "description": "resist damage from nearby foes' attacks",
+    "slot": "",
     "rarityData": {
       "common": "-10%",
       "rare": "-12.5%",
@@ -1230,6 +1327,7 @@
     "name": "Positive Outlook",
     "god": "Dionysus",
     "description": "take less damage while at 40% health or below",
+    "slot": "",
     "rarityData": {
       "common": "-10%",
       "rare": "-15%",
@@ -1242,6 +1340,7 @@
     "name": "Greater Evasion",
     "god": "Hermes",
     "description": "more chance to dodge",
+    "slot": "",
     "rarityData": {
       "common": "+15%",
       "rare": "+20%",
@@ -1255,6 +1354,7 @@
     "name": "Favor",
     "god": "Chaos",
     "description": "boons have more chance of being rare or better",
+    "slot": "",
     "rarityData": {
       "common": "+11-20%",
       "rare": "+12-30%",
@@ -1268,6 +1368,7 @@
     "name": "Sure Footing",
     "god": "Athena",
     "description": "resist damage from traps",
+    "slot": "",
     "rarityData": {
       "common": "-60%",
       "rare": "-75%",
@@ -1281,6 +1382,7 @@
     "name": "Battle Rage (K)",
     "god": "Ares",
     "description": "after slaying a foe, your next attack or special deals more damage",
+    "slot": "",
     "rarityData": {
       "common": "+100%",
       "rare": "+150%",
@@ -1294,6 +1396,7 @@
     "name": "Dying Lament (K)",
     "god": "Aphrodite",
     "description": "when floes are slain, damage nearby foes and inflict weak",
+    "slot": "",
     "rarityData": {
       "common": "-10%",
       "rare": "-12.5%",
@@ -1307,6 +1410,7 @@
     "name": "After Party",
     "god": "Dionysus",
     "description": "if your health is low after an encounter, restore to the threshold",
+    "slot": "",
     "rarityData": {
       "common": "30%",
       "rare": "37.5%",
@@ -1320,6 +1424,7 @@
     "name": "Affluence",
     "god": "Chaos",
     "description": "coin is worth more",
+    "slot": "",
     "rarityData": {
       "common": "+15-30%",
       "rare": "+16-45%",
@@ -1333,6 +1438,7 @@
     "name": "Clouded Judgment",
     "god": "Zeus",
     "description": "god gauge charges faster when dealing or taking damage",
+    "slot": "",
     "rarityData": {
       "common": "+10%",
       "rare": "+12%",
@@ -1346,6 +1452,7 @@
     "name": "Rip Current (Call)",
     "god": "Poseidon",
     "description": "makes Poseidon's Aid last longer and pull foes in",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1354,6 +1461,7 @@
     "name": "Proud Bearing",
     "god": "Athena",
     "description": "begin each encounter with the god gauge partly full",
+    "slot": "",
     "rarityData": {
       "common": "20%",
       "rare": "25%",
@@ -1367,6 +1475,7 @@
     "name": "Blood Frenzy",
     "god": "Ares",
     "description": "after using death defiance, deal more damage in that encounter",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1375,6 +1484,7 @@
     "name": "Exit Wounds",
     "god": "Artemis",
     "description": "foes take damage when cast gems become dislodged",
+    "slot": "",
     "rarityData": {
       "common": "100",
       "rare": "120",
@@ -1388,6 +1498,7 @@
     "name": "Snow Burst",
     "god": "Demeter",
     "description": "whenever you cast, damage nearby foes and inflict chill",
+    "slot": "",
     "rarityData": {
       "common": "40",
       "rare": "50",
@@ -1401,6 +1512,7 @@
     "name": "Quick Reload",
     "god": "Hermes",
     "description": "foes drop cast gems stuck in them faster",
+    "slot": "",
     "rarityData": {
       "rare": "6.67s"
     },
@@ -1411,6 +1523,7 @@
     "name": "Grasp",
     "god": "Chaos",
     "description": "gain cast gem(s)",
+    "slot": "",
     "rarityData": {
       "common": "+1",
       "rare": "+2",
@@ -1424,6 +1537,7 @@
     "name": "Billowing Strength",
     "god": "Zeus",
     "description": "after using your call, deal more damage for 15s",
+    "slot": "",
     "rarityData": {
       "common": "+20%",
       "rare": "+22%",
@@ -1437,6 +1551,7 @@
     "name": "Boiling Point",
     "god": "Poseidon",
     "description": "god gauge charges faster when taking damage",
+    "slot": "",
     "rarityData": {
       "common": "+40%",
       "rare": "+50%",
@@ -1450,6 +1565,7 @@
     "name": "Hunter Instinct",
     "god": "Artemis",
     "description": "god gauge charges faster when dealing critical damage",
+    "slot": "",
     "rarityData": {
       "common": "+0.25%",
       "rare": "+0.3%",
@@ -1463,6 +1579,7 @@
     "name": "Ravenous Will",
     "god": "Demeter",
     "description": "while you have no cast gems, take 10% less damage and deal more",
+    "slot": "",
     "rarityData": {
       "common": "+10%",
       "rare": "+20%",
@@ -1476,6 +1593,7 @@
     "name": "Quick Favor",
     "god": "Hermes",
     "description": "your god gauge slowly charges up automatically",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1484,6 +1602,7 @@
     "name": "Ocean's Bounty",
     "god": "Poseidon",
     "description": "any gems, darkness, or coin are worth more",
+    "slot": "",
     "rarityData": {
       "common": "+50%",
       "rare": "+55%",
@@ -1497,6 +1616,7 @@
     "name": "Deathless Stand",
     "god": "Athena",
     "description": "death defiance makes you impervious longer replenish 1 charge",
+    "slot": "",
     "rarityData": {
       "common": "+2s",
       "rare": "+2.5s",
@@ -1510,6 +1630,7 @@
     "name": "Life Affirmation",
     "god": "Aphrodite",
     "description": "any health increase rewards are worth more",
+    "slot": "",
     "rarityData": {
       "common": "+30%",
       "rare": "+36%",
@@ -1523,6 +1644,7 @@
     "name": "Premium Vintage",
     "god": "Dionysus",
     "description": "gain health when you pick up nectar receive 1 nectar",
+    "slot": "",
     "rarityData": {
       "common": "20",
       "rare": "25",
@@ -1536,6 +1658,7 @@
     "name": "Nourished Soul",
     "god": "Demeter",
     "description": "any health effects are more potent restore +30% health",
+    "slot": "",
     "rarityData": {
       "common": "+30%",
       "rare": "+32.25%",
@@ -1549,6 +1672,7 @@
     "name": "Side Hustle",
     "god": "Hermes",
     "description": "gain some money each time you enter a chamber",
+    "slot": "",
     "rarityData": {
       "common": "+10",
       "rare": "+13",
@@ -1562,6 +1686,7 @@
     "name": "Eclipse",
     "god": "Chaos",
     "description": "darkness is worth more",
+    "slot": "",
     "rarityData": {
       "common": "+20-40%",
       "rare": "+22-60%",
@@ -1575,6 +1700,7 @@
     "name": "Sunken Treasure",
     "god": "Poseidon",
     "description": "gain an assortment of gems, 50-100 darkness, 50-70 coin, and 10-30 health (nectar)",
+    "slot": "",
     "rarityData": {
       "common": "1x",
       "rare": "1.5x",
@@ -1588,6 +1714,7 @@
     "name": "Last Stand",
     "god": "Athena",
     "description": "death defiance restores more health than usual replenish 1 charge",
+    "slot": "",
     "rarityData": {
       "common": "+10%",
       "rare": "+12%",
@@ -1601,6 +1728,7 @@
     "name": "Strong Drink",
     "god": "Dionysus",
     "description": "using fountains restores all your health and gives you bonus damage",
+    "slot": "",
     "rarityData": {
       "common": "3%",
       "rare": "4%",
@@ -1613,6 +1741,7 @@
     "name": "Rare Crop",
     "god": "Demeter",
     "description": "your boons become common, then gain rarity every 3 encounters",
+    "slot": "",
     "rarityData": {
       "common": "1",
       "rare": "2",
@@ -1625,6 +1754,7 @@
     "name": "Brilliance",
     "god": "Chaos",
     "description": "gemstones are worth more",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1633,6 +1763,7 @@
     "name": "Splitting Bolt",
     "god": "Zeus",
     "description": "all lightning effects create an additional burst (5 bounces, 40 damage)",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1641,6 +1772,7 @@
     "name": "Second Wave",
     "god": "Poseidon",
     "description": "knock-away effects shove foes a second time 0.7s after the first",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1649,6 +1781,7 @@
     "name": "Divine Protection",
     "god": "Athena",
     "description": "gain a barrier that negates incoming damage (20s cooldown)",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1657,6 +1790,7 @@
     "name": "Vicious Cycle",
     "god": "Ares",
     "description": "blade rift effects deal 1 more damage for each consecutive hit",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1665,6 +1799,7 @@
     "name": "Fully Loaded",
     "god": "Artemis",
     "description": "gain +2 cast gems",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1673,6 +1808,7 @@
     "name": "Unhealthy Fixation",
     "god": "Aphrodite",
     "description": "weak effects also have a 15% chance to charm",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1681,6 +1817,7 @@
     "name": "Black Out (C)",
     "god": "Dionysus",
     "description": "hangover-afflicted foes take +100% bonus damage in festive fog",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1689,6 +1826,7 @@
     "name": "Winter Harvest",
     "god": "Demeter",
     "description": "chill-affected foes shatter at 10% health, inflicting 50 damage and chill nearby",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1697,6 +1835,7 @@
     "name": "Greater Recall",
     "god": "Hermes",
     "description": "cast gems automatically return to you",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1705,6 +1844,7 @@
     "name": "Defiance",
     "god": "Chaos",
     "description": "gain +1 death defiance",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   },
@@ -1713,6 +1853,7 @@
     "name": "Bad News",
     "god": "Hermes",
     "description": "",
+    "slot": "",
     "rarityData": {},
     "prereqs": []
   }
