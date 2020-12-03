@@ -9,7 +9,8 @@
       "rare": "12.5",
       "epic": "15",
       "heroic": "20"
-    }
+    },
+    "prereqs": []
   },
   "Tempest Strike": {
     "id": "Tempest Strike",
@@ -21,7 +22,8 @@
       "rare": "+45%",
       "epic": "+50%",
       "heroic": "+75%"
-    }
+    },
+    "prereqs": []
   },
   "Divine Strike": {
     "id": "Divine Strike",
@@ -33,7 +35,8 @@
       "rare": "+45%",
       "epic": "+50%",
       "heroic": "+75%"
-    }
+    },
+    "prereqs": []
   },
   "Curse of Agony": {
     "id": "Curse of Agony",
@@ -45,7 +48,8 @@
       "rare": "75",
       "epic": "100",
       "heroic": "125"
-    }
+    },
+    "prereqs": []
   },
   "Deadly Strike": {
     "id": "Deadly Strike",
@@ -57,7 +61,8 @@
       "rare": "+30%",
       "epic": "+40%",
       "heroic": "+50%"
-    }
+    },
+    "prereqs": []
   },
   "Heartbreak Strike": {
     "id": "Heartbreak Strike",
@@ -69,7 +74,8 @@
       "rare": "+75%",
       "epic": "+100%",
       "heroic": "+125%"
-    }
+    },
+    "prereqs": []
   },
   "Drunken Strike": {
     "id": "Drunken Strike",
@@ -81,7 +87,8 @@
       "rare": "5",
       "epic": "6",
       "heroic": "8"
-    }
+    },
+    "prereqs": []
   },
   "Frost Strike": {
     "id": "Frost Strike",
@@ -93,7 +100,8 @@
       "rare": "+60%",
       "epic": "+80%",
       "heroic": "+100%"
-    }
+    },
+    "prereqs": []
   },
   "Swift Strike": {
     "id": "Swift Strike",
@@ -105,7 +113,8 @@
       "rare": "+21.25%",
       "epic": "+30%",
       "heroic": "+38.75%"
-    }
+    },
+    "prereqs": []
   },
   "Chaos Strike": {
     "id": "Chaos Strike",
@@ -117,7 +126,8 @@
       "rare": "16-37.5%",
       "epic": "24-50%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Thunder Flourish": {
     "id": "Thunder Flourish",
@@ -129,7 +139,8 @@
       "rare": "37.5",
       "epic": "45",
       "heroic": "60"
-    }
+    },
+    "prereqs": []
   },
   "Tempest Flourish": {
     "id": "Tempest Flourish",
@@ -141,7 +152,8 @@
       "rare": "+105%",
       "epic": "+105%",
       "heroic": "+175%"
-    }
+    },
+    "prereqs": []
   },
   "Divine Flourish": {
     "id": "Divine Flourish",
@@ -153,7 +165,8 @@
       "rare": "+90%",
       "epic": "+120%",
       "heroic": "+150%"
-    }
+    },
+    "prereqs": []
   },
   "Curse of Pain": {
     "id": "Curse of Pain",
@@ -165,7 +178,8 @@
       "rare": "80",
       "epic": "100",
       "heroic": "120"
-    }
+    },
+    "prereqs": []
   },
   "Deadly Flourish": {
     "id": "Deadly Flourish",
@@ -177,7 +191,8 @@
       "rare": "+60%",
       "epic": "+80%",
       "heroic": "+100%"
-    }
+    },
+    "prereqs": []
   },
   "Heartbreah Flourish": {
     "id": "Heartbreah Flourish",
@@ -189,7 +204,8 @@
       "rare": "+120%",
       "epic": "+160%",
       "heroic": "+200%"
-    }
+    },
+    "prereqs": []
   },
   "Drunken Flourish": {
     "id": "Drunken Flourish",
@@ -201,7 +217,8 @@
       "rare": "6",
       "epic": "7",
       "heroic": "8"
-    }
+    },
+    "prereqs": []
   },
   "Frost Flourish": {
     "id": "Frost Flourish",
@@ -213,7 +230,8 @@
       "rare": "+90%",
       "epic": "+120%",
       "heroic": "+150%"
-    }
+    },
+    "prereqs": []
   },
   "Swift Flourish": {
     "id": "Swift Flourish",
@@ -225,7 +243,8 @@
       "rare": "+21.25%",
       "epic": "+30%",
       "heroic": "+38.75%"
-    }
+    },
+    "prereqs": []
   },
   "Chaos Flourish": {
     "id": "Chaos Flourish",
@@ -237,7 +256,8 @@
       "rare": "22-52.5%",
       "epic": "32-70%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Electric Shot": {
     "id": "Electric Shot",
@@ -249,7 +269,8 @@
       "rare": "72",
       "epic": "84",
       "heroic": "96"
-    }
+    },
+    "prereqs": []
   },
   "Flood Shot": {
     "id": "Flood Shot",
@@ -261,7 +282,8 @@
       "rare": "72",
       "epic": "84",
       "heroic": "96"
-    }
+    },
+    "prereqs": []
   },
   "Phalanx Shot": {
     "id": "Phalanx Shot",
@@ -273,7 +295,8 @@
       "rare": "102",
       "epic": "119",
       "heroic": "136"
-    }
+    },
+    "prereqs": []
   },
   "Slicing Shot": {
     "id": "Slicing Shot",
@@ -285,7 +308,8 @@
       "rare": "11",
       "epic": "13",
       "heroic": "14"
-    }
+    },
+    "prereqs": []
   },
   "True Shot": {
     "id": "True Shot",
@@ -297,7 +321,8 @@
       "rare": "80",
       "epic": "90",
       "heroic": "100"
-    }
+    },
+    "prereqs": []
   },
   "Crush Shot": {
     "id": "Crush Shot",
@@ -309,7 +334,8 @@
       "rare": "99",
       "epic": "108",
       "heroic": "117"
-    }
+    },
+    "prereqs": []
   },
   "Trippy Shot": {
     "id": "Trippy Shot",
@@ -321,7 +347,8 @@
       "rare": "120",
       "epic": "140",
       "heroic": "160"
-    }
+    },
+    "prereqs": []
   },
   "Crystal Beam": {
     "id": "Crystal Beam",
@@ -333,7 +360,8 @@
       "rare": "9.2",
       "epic": "10.4",
       "heroic": "11.6"
-    }
+    },
+    "prereqs": []
   },
   "Flurry Cast": {
     "id": "Flurry Cast",
@@ -345,7 +373,8 @@
       "rare": "+40%",
       "epic": "+60%",
       "heroic": "+80%"
-    }
+    },
+    "prereqs": []
   },
   "Chaos Shot": {
     "id": "Chaos Shot",
@@ -357,7 +386,8 @@
       "rare": "16-37.5%",
       "epic": "24-50%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Thunder Dash": {
     "id": "Thunder Dash",
@@ -369,7 +399,8 @@
       "rare": "13.3",
       "epic": "16.6",
       "heroic": "20"
-    }
+    },
+    "prereqs": []
   },
   "Tidal Dash": {
     "id": "Tidal Dash",
@@ -381,7 +412,8 @@
       "rare": "42",
       "epic": "49",
       "heroic": "56"
-    }
+    },
+    "prereqs": []
   },
   "Divine Dash": {
     "id": "Divine Dash",
@@ -393,7 +425,8 @@
       "rare": "12",
       "epic": "14",
       "heroic": "16"
-    }
+    },
+    "prereqs": []
   },
   "Blade Dash": {
     "id": "Blade Dash",
@@ -405,7 +438,8 @@
       "rare": "6",
       "epic": "7",
       "heroic": "8"
-    }
+    },
+    "prereqs": []
   },
   "Hunter Dash": {
     "id": "Hunter Dash",
@@ -417,7 +451,8 @@
       "rare": "+75%",
       "epic": "+100%",
       "heroic": "+125%"
-    }
+    },
+    "prereqs": []
   },
   "Passion Dash": {
     "id": "Passion Dash",
@@ -429,7 +464,8 @@
       "rare": "24",
       "epic": "28",
       "heroic": "32"
-    }
+    },
+    "prereqs": []
   },
   "Drunken Dash": {
     "id": "Drunken Dash",
@@ -441,7 +477,8 @@
       "rare": "3",
       "epic": "4",
       "heroic": "5"
-    }
+    },
+    "prereqs": []
   },
   "Mistral Dash": {
     "id": "Mistral Dash",
@@ -453,7 +490,8 @@
       "rare": "22.5",
       "epic": "30",
       "heroic": "37.5"
-    }
+    },
+    "prereqs": []
   },
   "Greatest Reflex": {
     "id": "Greatest Reflex",
@@ -465,7 +503,8 @@
       "rare": "+2",
       "epic": "+3",
       "heroic": "+4"
-    }
+    },
+    "prereqs": []
   },
   "Chaos Lunge": {
     "id": "Chaos Lunge",
@@ -477,7 +516,8 @@
       "rare": "22-52.5%",
       "epic": "32-70%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Zeus's Aid": {
     "id": "Zeus's Aid",
@@ -489,7 +529,8 @@
       "rare": "66",
       "epic": "72",
       "heroic": "84"
-    }
+    },
+    "prereqs": []
   },
   "Poseidon's Aid": {
     "id": "Poseidon's Aid",
@@ -501,7 +542,8 @@
       "rare": "300",
       "epic": "350",
       "heroic": "400"
-    }
+    },
+    "prereqs": []
   },
   "Athena's Aid": {
     "id": "Athena's Aid",
@@ -513,7 +555,8 @@
       "rare": "1.65s",
       "epic": "1.8s",
       "heroic": "1.95s"
-    }
+    },
+    "prereqs": []
   },
   "Ares' Aid": {
     "id": "Ares' Aid",
@@ -525,7 +568,8 @@
       "rare": "18",
       "epic": "21",
       "heroic": "24"
-    }
+    },
+    "prereqs": []
   },
   "Artemis's Aid": {
     "id": "Artemis's Aid",
@@ -537,7 +581,8 @@
       "rare": "110",
       "epic": "120",
       "heroic": "130"
-    }
+    },
+    "prereqs": []
   },
   "Aphrodite's Aid": {
     "id": "Aphrodite's Aid",
@@ -549,7 +594,8 @@
       "rare": "5.5",
       "epic": "6",
       "heroic": "6.5"
-    }
+    },
+    "prereqs": []
   },
   "Dionysus's Aid": {
     "id": "Dionysus's Aid",
@@ -561,7 +607,8 @@
       "rare": "16.5",
       "epic": "18",
       "heroic": "19.5"
-    }
+    },
+    "prereqs": []
   },
   "Demeter's Aid": {
     "id": "Demeter's Aid",
@@ -573,7 +620,8 @@
       "rare": "22.5",
       "epic": "30",
       "heroic": "37.5"
-    }
+    },
+    "prereqs": []
   },
   "Second Wind": {
     "id": "Second Wind",
@@ -585,7 +633,8 @@
       "rare": "+37.5%",
       "epic": "+45%",
       "heroic": "+52.5%"
-    }
+    },
+    "prereqs": []
   },
   "Static Discharge": {
     "id": "Static Discharge",
@@ -597,7 +646,8 @@
       "rare": "90",
       "epic": "120",
       "heroic": "150"
-    }
+    },
+    "prereqs": []
   },
   "Razor Shoals": {
     "id": "Razor Shoals",
@@ -609,7 +659,8 @@
       "rare": "7.5",
       "epic": "10",
       "heroic": "12.5"
-    }
+    },
+    "prereqs": []
   },
   "Blinding Flash": {
     "id": "Blinding Flash",
@@ -621,7 +672,8 @@
       "rare": "+62.5%",
       "epic": "+75%",
       "heroic": "+87.5%"
-    }
+    },
+    "prereqs": []
   },
   "Dire Misfortune": {
     "id": "Dire Misfortune",
@@ -633,7 +685,8 @@
       "rare": "7.5",
       "epic": "10",
       "heroic": "12.5"
-    }
+    },
+    "prereqs": []
   },
   "Hunter's Mark": {
     "id": "Hunter's Mark",
@@ -645,7 +698,8 @@
       "rare": "+45%",
       "epic": "+75%",
       "heroic": "+81%"
-    }
+    },
+    "prereqs": []
   },
   "Sweet Surrender": {
     "id": "Sweet Surrender",
@@ -657,7 +711,8 @@
       "rare": "+15%",
       "epic": "+25%",
       "heroic": "+27%"
-    }
+    },
+    "prereqs": []
   },
   "Numbing Sensation": {
     "id": "Numbing Sensation",
@@ -669,7 +724,8 @@
       "rare": "-22.5%",
       "epic": "-33%",
       "heroic": "-37.5%"
-    }
+    },
+    "prereqs": []
   },
   "Killing Freeze": {
     "id": "Killing Freeze",
@@ -681,7 +737,8 @@
       "rare": "-15%, 30",
       "epic": "-20%, 40",
       "heroic": "-25%, 50"
-    }
+    },
+    "prereqs": []
   },
   "Hyper Sprint": {
     "id": "Hyper Sprint",
@@ -693,7 +750,8 @@
       "rare": "+70%, 0.75s",
       "epic": "+100%, 1.0s",
       "heroic": "+125%, 1.25s"
-    }
+    },
+    "prereqs": []
   },
   "Soul": {
     "id": "Soul",
@@ -705,7 +763,8 @@
       "rare": "16-30",
       "epic": "24-40",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Storm Lightning": {
     "id": "Storm Lightning",
@@ -717,7 +776,8 @@
       "rare": "+4",
       "epic": "+6",
       "heroic": "+8"
-    }
+    },
+    "prereqs": []
   },
   "Wave Pounding": {
     "id": "Wave Pounding",
@@ -729,7 +789,8 @@
       "rare": "+20%",
       "epic": "+30%",
       "heroic": "+40%"
-    }
+    },
+    "prereqs": []
   },
   "Brilliant Riposte": {
     "id": "Brilliant Riposte",
@@ -740,7 +801,8 @@
       "common": "+80%",
       "rare": "+120%",
       "epic": "+200%"
-    }
+    },
+    "prereqs": []
   },
   "Impending Doom": {
     "id": "Impending Doom",
@@ -752,7 +814,8 @@
       "rare": "+66%",
       "epic": "+72%",
       "heroic": "+78%"
-    }
+    },
+    "prereqs": []
   },
   "Pressure Points": {
     "id": "Pressure Points",
@@ -764,7 +827,8 @@
       "rare": "+4%",
       "epic": "+5%",
       "heroic": "+6%"
-    }
+    },
+    "prereqs": []
   },
   "Broken Resolve": {
     "id": "Broken Resolve",
@@ -776,7 +840,8 @@
       "rare": "-12.5%",
       "epic": "-15%",
       "heroic": "-17.5%"
-    }
+    },
+    "prereqs": []
   },
   "Peer Pressure": {
     "id": "Peer Pressure",
@@ -788,7 +853,8 @@
       "rare": "6",
       "epic": "10",
       "heroic": "10.8"
-    }
+    },
+    "prereqs": []
   },
   "Arctic Blast": {
     "id": "Arctic Blast",
@@ -800,7 +866,8 @@
       "rare": "120",
       "epic": "140",
       "heroic": "160"
-    }
+    },
+    "prereqs": []
   },
   "Greater Haste": {
     "id": "Greater Haste",
@@ -812,7 +879,8 @@
       "rare": "+30%",
       "epic": "+40%",
       "heroic": "+49%"
-    }
+    },
+    "prereqs": []
   },
   "Assault": {
     "id": "Assault",
@@ -821,7 +889,8 @@
     "description": "deal bonus damage striking undamaged foes",
     "rarityData": {
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "High Voltage": {
     "id": "High Voltage",
@@ -833,7 +902,8 @@
       "rare": "+72%",
       "epic": "+84%",
       "heroic": "+96%"
-    }
+    },
+    "prereqs": []
   },
   "Typhoon's Fury": {
     "id": "Typhoon's Fury",
@@ -845,7 +915,8 @@
       "rare": "350%",
       "epic": "400%",
       "heroic": "450%"
-    }
+    },
+    "prereqs": []
   },
   "Black Metal": {
     "id": "Black Metal",
@@ -857,7 +928,8 @@
       "rare": "+22%",
       "epic": "+24%",
       "heroic": "+26%"
-    }
+    },
+    "prereqs": []
   },
   "Clean Kill": {
     "id": "Clean Kill",
@@ -869,7 +941,8 @@
       "rare": "+22.5%",
       "epic": "+30%",
       "heroic": "+37.5%"
-    }
+    },
+    "prereqs": []
   },
   "Empty Inside": {
     "id": "Empty Inside",
@@ -881,7 +954,8 @@
       "rare": "+7.5s",
       "epic": "+10s",
       "heroic": "+12.5s"
-    }
+    },
+    "prereqs": []
   },
   "Bad Influence": {
     "id": "Bad Influence",
@@ -893,14 +967,16 @@
       "rare": "+75%",
       "epic": "+100%",
       "heroic": "+125%"
-    }
+    },
+    "prereqs": []
   },
   "Glacial Glare (C)": {
     "id": "Glacial Glare (C)",
     "name": "Glacial Glare (C)",
     "god": "Demeter",
     "description": "your cast fires for a longer duration and inflicts chill",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Rush Delivery": {
     "id": "Rush Delivery",
@@ -912,7 +988,8 @@
       "rare": "+20%",
       "epic": "+25%",
       "heroic": "+30%"
-    }
+    },
+    "prereqs": []
   },
   "Ambush": {
     "id": "Ambush",
@@ -921,7 +998,8 @@
     "description": "deal bonus damage striking foes from behind",
     "rarityData": {
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Double Strike": {
     "id": "Double Strike",
@@ -933,7 +1011,8 @@
       "rare": "+30%",
       "epic": "+35%",
       "heroic": "+40%"
-    }
+    },
+    "prereqs": []
   },
   "Breaking Wave": {
     "id": "Breaking Wave",
@@ -945,7 +1024,8 @@
       "rare": "150",
       "epic": "250",
       "heroic": "270"
-    }
+    },
+    "prereqs": []
   },
   "Engulfing Vortex": {
     "id": "Engulfing Vortex",
@@ -957,7 +1037,8 @@
       "rare": "+0.3s",
       "epic": "+0.5s",
       "heroic": "+0.54s"
-    }
+    },
+    "prereqs": []
   },
   "Hide Breaker": {
     "id": "Hide Breaker",
@@ -969,14 +1050,16 @@
       "rare": "+300%",
       "epic": "+400%",
       "heroic": "+500%"
-    }
+    },
+    "prereqs": []
   },
   "Blown Kiss (C)": {
     "id": "Blown Kiss (C)",
     "name": "Blown Kiss (C)",
     "god": "Aphrodite",
     "description": "your cast shoots farther and is stronger against undamaged foes",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "High Tolerance (C)": {
     "id": "High Tolerance (C)",
@@ -988,7 +1071,8 @@
       "rare": "-22.5%",
       "epic": "-37.5%",
       "heroic": "-40.5%"
-    }
+    },
+    "prereqs": []
   },
   "Heaven's Vengeance": {
     "id": "Heaven's Vengeance",
@@ -1000,7 +1084,8 @@
       "rare": "120",
       "epic": "160",
       "heroic": "200"
-    }
+    },
+    "prereqs": []
   },
   "Holy Shield": {
     "id": "Holy Shield",
@@ -1012,7 +1097,8 @@
       "rare": "45",
       "epic": "60",
       "heroic": "75"
-    }
+    },
+    "prereqs": []
   },
   "Curse of Vengeance": {
     "id": "Curse of Vengeance",
@@ -1024,7 +1110,8 @@
       "rare": "99",
       "epic": "108",
       "heroic": "117"
-    }
+    },
+    "prereqs": []
   },
   "Wave of Despair": {
     "id": "Wave of Despair",
@@ -1036,14 +1123,16 @@
       "rare": "75",
       "epic": "100",
       "heroic": "125"
-    }
+    },
+    "prereqs": []
   },
   "Frozen Touch": {
     "id": "Frozen Touch",
     "name": "Frozen Touch",
     "god": "Demeter",
     "description": "... damage and completely chill  your foe",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Quick Recovery": {
     "id": "Quick Recovery",
@@ -1055,21 +1144,24 @@
       "rare": "30%",
       "epic": "40%",
       "heroic": "50%"
-    }
+    },
+    "prereqs": []
   },
   "Ruin": {
     "id": "Ruin",
     "name": "Ruin",
     "god": "Chaos",
     "description": "traps deal bonus damage to foes",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Lightning Reflexes": {
     "id": "Lightning Reflexes",
     "name": "Lightning Reflexes",
     "god": "Zeus",
     "description": "dash just before being hit to counter-attack with a lightning bolt",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Hydraulic Might": {
     "id": "Hydraulic Might",
@@ -1078,7 +1170,8 @@
     "description": "attack and special are stronger in the first 5 seconds of encounters",
     "rarityData": {
       "rare": "+174%"
-    }
+    },
+    "prereqs": []
   },
   "Bronze Skin": {
     "id": "Bronze Skin",
@@ -1090,7 +1183,8 @@
       "rare": "-7.5%",
       "epic": "-10%",
       "heroic": "-12.5%"
-    }
+    },
+    "prereqs": []
   },
   "Urge to Kill": {
     "id": "Urge to Kill",
@@ -1102,7 +1196,8 @@
       "rare": "+10%",
       "epic": "+12%",
       "heroic": "+14%"
-    }
+    },
+    "prereqs": []
   },
   "Support Fire": {
     "id": "Support Fire",
@@ -1114,7 +1209,8 @@
       "rare": "12",
       "epic": "14",
       "heroic": "16"
-    }
+    },
+    "prereqs": []
   },
   "Different League": {
     "id": "Different League",
@@ -1126,7 +1222,8 @@
       "rare": "-12.5%",
       "epic": "-15%",
       "heroic": "-17.5%"
-    }
+    },
+    "prereqs": []
   },
   "Positive Outlook": {
     "id": "Positive Outlook",
@@ -1137,7 +1234,8 @@
       "common": "-10%",
       "rare": "-15%",
       "epic": "-20%"
-    }
+    },
+    "prereqs": []
   },
   "Greater Evasion": {
     "id": "Greater Evasion",
@@ -1149,7 +1247,8 @@
       "rare": "+20%",
       "epic": "+25%",
       "heroic": "+30%"
-    }
+    },
+    "prereqs": []
   },
   "Favor": {
     "id": "Favor",
@@ -1161,7 +1260,8 @@
       "rare": "+12-30%",
       "epic": "+18-40%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Sure Footing": {
     "id": "Sure Footing",
@@ -1173,7 +1273,8 @@
       "rare": "-75%",
       "epic": "-90%",
       "heroic": "-95%"
-    }
+    },
+    "prereqs": []
   },
   "Battle Rage (K)": {
     "id": "Battle Rage (K)",
@@ -1185,7 +1286,8 @@
       "rare": "+150%",
       "epic": "+200%",
       "heroic": "+250%"
-    }
+    },
+    "prereqs": []
   },
   "Dying Lament (K)": {
     "id": "Dying Lament (K)",
@@ -1197,7 +1299,8 @@
       "rare": "-12.5%",
       "epic": "-15%",
       "heroic": "-17.5%"
-    }
+    },
+    "prereqs": []
   },
   "After Party": {
     "id": "After Party",
@@ -1209,7 +1312,8 @@
       "rare": "37.5%",
       "epic": "40%",
       "heroic": "60%"
-    }
+    },
+    "prereqs": []
   },
   "Affluence": {
     "id": "Affluence",
@@ -1221,7 +1325,8 @@
       "rare": "+16-45%",
       "epic": "+24-60%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Clouded Judgment": {
     "id": "Clouded Judgment",
@@ -1233,14 +1338,16 @@
       "rare": "+12%",
       "epic": "+14%",
       "heroic": "+16%"
-    }
+    },
+    "prereqs": []
   },
   "Rip Current (Call)": {
     "id": "Rip Current (Call)",
     "name": "Rip Current (Call)",
     "god": "Poseidon",
     "description": "makes Poseidon's Aid last longer and pull foes in",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Proud Bearing": {
     "id": "Proud Bearing",
@@ -1252,14 +1359,16 @@
       "rare": "25%",
       "epic": "30%",
       "heroic": "40%"
-    }
+    },
+    "prereqs": []
   },
   "Blood Frenzy": {
     "id": "Blood Frenzy",
     "name": "Blood Frenzy",
     "god": "Ares",
     "description": "after using death defiance, deal more damage in that encounter",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Exit Wounds": {
     "id": "Exit Wounds",
@@ -1271,7 +1380,8 @@
       "rare": "120",
       "epic": "140",
       "heroic": "160"
-    }
+    },
+    "prereqs": []
   },
   "Snow Burst": {
     "id": "Snow Burst",
@@ -1283,7 +1393,8 @@
       "rare": "50",
       "epic": "60",
       "heroic": "70"
-    }
+    },
+    "prereqs": []
   },
   "Quick Reload": {
     "id": "Quick Reload",
@@ -1292,7 +1403,8 @@
     "description": "foes drop cast gems stuck in them faster",
     "rarityData": {
       "rare": "6.67s"
-    }
+    },
+    "prereqs": []
   },
   "Grasp": {
     "id": "Grasp",
@@ -1304,7 +1416,8 @@
       "rare": "+2",
       "epic": "+3",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Billowing Strength": {
     "id": "Billowing Strength",
@@ -1316,7 +1429,8 @@
       "rare": "+22%",
       "epic": "+24%",
       "heroic": "+20%"
-    }
+    },
+    "prereqs": []
   },
   "Boiling Point": {
     "id": "Boiling Point",
@@ -1328,7 +1442,8 @@
       "rare": "+50%",
       "epic": "+60%",
       "heroic": "+70%"
-    }
+    },
+    "prereqs": []
   },
   "Hunter Instinct": {
     "id": "Hunter Instinct",
@@ -1340,7 +1455,8 @@
       "rare": "+0.3%",
       "epic": "+0.35%",
       "heroic": "+0.4%"
-    }
+    },
+    "prereqs": []
   },
   "Ravenous Will": {
     "id": "Ravenous Will",
@@ -1352,14 +1468,16 @@
       "rare": "+20%",
       "epic": "+30%",
       "heroic": "+40%"
-    }
+    },
+    "prereqs": []
   },
   "Quick Favor": {
     "id": "Quick Favor",
     "name": "Quick Favor",
     "god": "Hermes",
     "description": "your god gauge slowly charges up automatically",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Ocean's Bounty": {
     "id": "Ocean's Bounty",
@@ -1371,7 +1489,8 @@
       "rare": "+55%",
       "epic": "+60%",
       "heroic": "+65%"
-    }
+    },
+    "prereqs": []
   },
   "Deathless Stand": {
     "id": "Deathless Stand",
@@ -1383,7 +1502,8 @@
       "rare": "+2.5s",
       "epic": "+3s",
       "heroic": "+3.5s"
-    }
+    },
+    "prereqs": []
   },
   "Life Affirmation": {
     "id": "Life Affirmation",
@@ -1395,7 +1515,8 @@
       "rare": "+36%",
       "epic": "+42%",
       "heroic": "+48%"
-    }
+    },
+    "prereqs": []
   },
   "Premium Vintage": {
     "id": "Premium Vintage",
@@ -1407,7 +1528,8 @@
       "rare": "25",
       "epic": "30",
       "heroic": "35"
-    }
+    },
+    "prereqs": []
   },
   "Nourished Soul": {
     "id": "Nourished Soul",
@@ -1419,7 +1541,8 @@
       "rare": "+32.25%",
       "epic": "+34.5%",
       "heroic": "+36.75%"
-    }
+    },
+    "prereqs": []
   },
   "Side Hustle": {
     "id": "Side Hustle",
@@ -1431,7 +1554,8 @@
       "rare": "+13",
       "epic": "+16",
       "heroic": "+19"
-    }
+    },
+    "prereqs": []
   },
   "Eclipse": {
     "id": "Eclipse",
@@ -1443,7 +1567,8 @@
       "rare": "+22-60%",
       "epic": "+32-80%",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Sunken Treasure": {
     "id": "Sunken Treasure",
@@ -1455,7 +1580,8 @@
       "rare": "1.5x",
       "epic": "2.2x",
       "heroic": "n/a"
-    }
+    },
+    "prereqs": []
   },
   "Last Stand": {
     "id": "Last Stand",
@@ -1467,7 +1593,8 @@
       "rare": "+12%",
       "epic": "+14%",
       "heroic": "+16%"
-    }
+    },
+    "prereqs": []
   },
   "Strong Drink": {
     "id": "Strong Drink",
@@ -1478,7 +1605,8 @@
       "common": "3%",
       "rare": "4%",
       "epic": "5%"
-    }
+    },
+    "prereqs": []
   },
   "Rare Crop": {
     "id": "Rare Crop",
@@ -1489,90 +1617,103 @@
       "common": "1",
       "rare": "2",
       "epic": "3"
-    }
+    },
+    "prereqs": []
   },
   "Brilliance": {
     "id": "Brilliance",
     "name": "Brilliance",
     "god": "Chaos",
     "description": "gemstones are worth more",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Splitting Bolt": {
     "id": "Splitting Bolt",
     "name": "Splitting Bolt",
     "god": "Zeus",
     "description": "all lightning effects create an additional burst (5 bounces, 40 damage)",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Second Wave": {
     "id": "Second Wave",
     "name": "Second Wave",
     "god": "Poseidon",
     "description": "knock-away effects shove foes a second time 0.7s after the first",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Divine Protection": {
     "id": "Divine Protection",
     "name": "Divine Protection",
     "god": "Athena",
     "description": "gain a barrier that negates incoming damage (20s cooldown)",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Vicious Cycle": {
     "id": "Vicious Cycle",
     "name": "Vicious Cycle",
     "god": "Ares",
     "description": "blade rift effects deal 1 more damage for each consecutive hit",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Fully Loaded": {
     "id": "Fully Loaded",
     "name": "Fully Loaded",
     "god": "Artemis",
     "description": "gain +2 cast gems",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Unhealthy Fixation": {
     "id": "Unhealthy Fixation",
     "name": "Unhealthy Fixation",
     "god": "Aphrodite",
     "description": "weak effects also have a 15% chance to charm",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Black Out (C)": {
     "id": "Black Out (C)",
     "name": "Black Out (C)",
     "god": "Dionysus",
     "description": "hangover-afflicted foes take +100% bonus damage in festive fog",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Winter Harvest": {
     "id": "Winter Harvest",
     "name": "Winter Harvest",
     "god": "Demeter",
     "description": "chill-affected foes shatter at 10% health, inflicting 50 damage and chill nearby",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Greater Recall": {
     "id": "Greater Recall",
     "name": "Greater Recall",
     "god": "Hermes",
     "description": "cast gems automatically return to you",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Defiance": {
     "id": "Defiance",
     "name": "Defiance",
     "god": "Chaos",
     "description": "gain +1 death defiance",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   },
   "Bad News": {
     "id": "Bad News",
     "name": "Bad News",
     "god": "Hermes",
     "description": "",
-    "rarityData": {}
+    "rarityData": {},
+    "prereqs": []
   }
 }
