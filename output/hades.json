@@ -4,1312 +4,1575 @@
     "name": "Lightning Strike",
     "god": "Zeus",
     "description": "emits chain-lightning (4) when you damage a foe",
-    "common": "10",
-    "rare": "12.5",
-    "epic": "15",
-    "heroic": "20"
+    "rarityData": {
+      "common": "10",
+      "rare": "12.5",
+      "epic": "15",
+      "heroic": "20"
+    }
   },
   "Tempest Strike": {
     "id": "Tempest Strike",
     "name": "Tempest Strike",
     "god": "Poseidon",
     "description": "more damage and knock foes away",
-    "common": "+30%",
-    "rare": "+45%",
-    "epic": "+50%",
-    "heroic": "+75%"
+    "rarityData": {
+      "common": "+30%",
+      "rare": "+45%",
+      "epic": "+50%",
+      "heroic": "+75%"
+    }
   },
   "Divine Strike": {
     "id": "Divine Strike",
     "name": "Divine Strike",
     "god": "Athena",
     "description": "more damage and deflects",
-    "common": "+30%",
-    "rare": "+45%",
-    "epic": "+50%",
-    "heroic": "+75%"
+    "rarityData": {
+      "common": "+30%",
+      "rare": "+45%",
+      "epic": "+50%",
+      "heroic": "+75%"
+    }
   },
   "Curse of Agony": {
     "id": "Curse of Agony",
     "name": "Curse of Agony",
     "god": "Ares",
     "description": "inflicts doom (1.1s)",
-    "common": "50",
-    "rare": "75",
-    "epic": "100",
-    "heroic": "125"
+    "rarityData": {
+      "common": "50",
+      "rare": "75",
+      "epic": "100",
+      "heroic": "125"
+    }
   },
   "Deadly Strike": {
     "id": "Deadly Strike",
     "name": "Deadly Strike",
     "god": "Artemis",
     "description": "more damage +15% chance to crit",
-    "common": "+20%",
-    "rare": "+30%",
-    "epic": "+40%",
-    "heroic": "+50%"
+    "rarityData": {
+      "common": "+20%",
+      "rare": "+30%",
+      "epic": "+40%",
+      "heroic": "+50%"
+    }
   },
   "Heartbreak Strike": {
     "id": "Heartbreak Strike",
     "name": "Heartbreak Strike",
     "god": "Aphrodite",
     "description": "more damage and inflict weak (-30% attack for 4s)",
-    "common": "+50%",
-    "rare": "+75%",
-    "epic": "+100%",
-    "heroic": "+125%"
+    "rarityData": {
+      "common": "+50%",
+      "rare": "+75%",
+      "epic": "+100%",
+      "heroic": "+125%"
+    }
   },
   "Drunken Strike": {
     "id": "Drunken Strike",
     "name": "Drunken Strike",
     "god": "Dionysus",
     "description": "inflicts hangover (stack 5, damage every 0.5s for 4s)",
-    "common": "4",
-    "rare": "5",
-    "epic": "6",
-    "heroic": "8"
+    "rarityData": {
+      "common": "4",
+      "rare": "5",
+      "epic": "6",
+      "heroic": "8"
+    }
   },
   "Frost Strike": {
     "id": "Frost Strike",
     "name": "Frost Strike",
     "god": "Demeter",
     "description": "more damage and chill (4% slow for 8s, stack 10)",
-    "common": "+40%",
-    "rare": "+60%",
-    "epic": "+80%",
-    "heroic": "+100%"
+    "rarityData": {
+      "common": "+40%",
+      "rare": "+60%",
+      "epic": "+80%",
+      "heroic": "+100%"
+    }
   },
   "Swift Strike": {
     "id": "Swift Strike",
     "name": "Swift Strike",
     "god": "Hermes",
     "description": "your attack is faster",
-    "common": "+12.5%",
-    "rare": "+21.25%",
-    "epic": "+30%",
-    "heroic": "+38.75%"
+    "rarityData": {
+      "common": "+12.5%",
+      "rare": "+21.25%",
+      "epic": "+30%",
+      "heroic": "+38.75%"
+    }
   },
   "Chaos Strike": {
     "id": "Chaos Strike",
     "name": "Chaos Strike",
     "god": "Chaos",
     "description": "your attack deals more damage",
-    "common": "15-25%",
-    "rare": "16-37.5%",
-    "epic": "24-50%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "15-25%",
+      "rare": "16-37.5%",
+      "epic": "24-50%",
+      "heroic": "n/a"
+    }
   },
   "Thunder Flourish": {
     "id": "Thunder Flourish",
     "name": "Thunder Flourish",
     "god": "Zeus",
     "description": "causes a lightning bolt to strike nearby foes",
-    "common": "30",
-    "rare": "37.5",
-    "epic": "45",
-    "heroic": "60"
+    "rarityData": {
+      "common": "30",
+      "rare": "37.5",
+      "epic": "45",
+      "heroic": "60"
+    }
   },
   "Tempest Flourish": {
     "id": "Tempest Flourish",
     "name": "Tempest Flourish",
     "god": "Poseidon",
     "description": "more damage and knock foes away",
-    "common": "+70%",
-    "rare": "+105%",
-    "epic": "+105%",
-    "heroic": "+175%"
+    "rarityData": {
+      "common": "+70%",
+      "rare": "+105%",
+      "epic": "+105%",
+      "heroic": "+175%"
+    }
   },
   "Divine Flourish": {
     "id": "Divine Flourish",
     "name": "Divine Flourish",
     "god": "Athena",
     "description": "more damage and deflects",
-    "common": "+60%",
-    "rare": "+90%",
-    "epic": "+120%",
-    "heroic": "+150%"
+    "rarityData": {
+      "common": "+60%",
+      "rare": "+90%",
+      "epic": "+120%",
+      "heroic": "+150%"
+    }
   },
   "Curse of Pain": {
     "id": "Curse of Pain",
     "name": "Curse of Pain",
     "god": "Ares",
     "description": "inflicts doom (1.1s)",
-    "common": "60",
-    "rare": "80",
-    "epic": "100",
-    "heroic": "120"
+    "rarityData": {
+      "common": "60",
+      "rare": "80",
+      "epic": "100",
+      "heroic": "120"
+    }
   },
   "Deadly Flourish": {
     "id": "Deadly Flourish",
     "name": "Deadly Flourish",
     "god": "Artemis",
     "description": "more damage +20% chance to crit",
-    "common": "+40%",
-    "rare": "+60%",
-    "epic": "+80%",
-    "heroic": "+100%"
+    "rarityData": {
+      "common": "+40%",
+      "rare": "+60%",
+      "epic": "+80%",
+      "heroic": "+100%"
+    }
   },
   "Heartbreah Flourish": {
     "id": "Heartbreah Flourish",
     "name": "Heartbreah Flourish",
     "god": "Aphrodite",
     "description": "more damage and inflict weak (-30% attack for 4s)",
-    "common": "+80%",
-    "rare": "+120%",
-    "epic": "+160%",
-    "heroic": "+200%"
+    "rarityData": {
+      "common": "+80%",
+      "rare": "+120%",
+      "epic": "+160%",
+      "heroic": "+200%"
+    }
   },
   "Drunken Flourish": {
     "id": "Drunken Flourish",
     "name": "Drunken Flourish",
     "god": "Dionysus",
     "description": "inflicts hangover (stack 5, damage every 0.5s for 4s)",
-    "common": "5",
-    "rare": "6",
-    "epic": "7",
-    "heroic": "8"
+    "rarityData": {
+      "common": "5",
+      "rare": "6",
+      "epic": "7",
+      "heroic": "8"
+    }
   },
   "Frost Flourish": {
     "id": "Frost Flourish",
     "name": "Frost Flourish",
     "god": "Demeter",
     "description": "more damage and chill (4% slow for 8s, stack 10)",
-    "common": "+60%",
-    "rare": "+90%",
-    "epic": "+120%",
-    "heroic": "+150%"
+    "rarityData": {
+      "common": "+60%",
+      "rare": "+90%",
+      "epic": "+120%",
+      "heroic": "+150%"
+    }
   },
   "Swift Flourish": {
     "id": "Swift Flourish",
     "name": "Swift Flourish",
     "god": "Hermes",
     "description": "your special is faster",
-    "common": "+12.5%",
-    "rare": "+21.25%",
-    "epic": "+30%",
-    "heroic": "+38.75%"
+    "rarityData": {
+      "common": "+12.5%",
+      "rare": "+21.25%",
+      "epic": "+30%",
+      "heroic": "+38.75%"
+    }
   },
   "Chaos Flourish": {
     "id": "Chaos Flourish",
     "name": "Chaos Flourish",
     "god": "Chaos",
     "description": "your special deals more damage",
-    "common": "20-35%",
-    "rare": "22-52.5%",
-    "epic": "32-70%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "20-35%",
+      "rare": "22-52.5%",
+      "epic": "32-70%",
+      "heroic": "n/a"
+    }
   },
   "Electric Shot": {
     "id": "Electric Shot",
     "name": "Electric Shot",
     "god": "Zeus",
     "description": "burst of chain-lightning (5) that bounces between foes",
-    "common": "60",
-    "rare": "72",
-    "epic": "84",
-    "heroic": "96"
+    "rarityData": {
+      "common": "60",
+      "rare": "72",
+      "epic": "84",
+      "heroic": "96"
+    }
   },
   "Flood Shot": {
     "id": "Flood Shot",
     "name": "Flood Shot",
     "god": "Poseidon",
     "description": "damages foes in an area and knocks them away",
-    "common": "60",
-    "rare": "72",
-    "epic": "84",
-    "heroic": "96"
+    "rarityData": {
+      "common": "60",
+      "rare": "72",
+      "epic": "84",
+      "heroic": "96"
+    }
   },
   "Phalanx Shot": {
     "id": "Phalanx Shot",
     "name": "Phalanx Shot",
     "god": "Athena",
     "description": "damages foes in an area and deflects",
-    "common": "85",
-    "rare": "102",
-    "epic": "119",
-    "heroic": "136"
+    "rarityData": {
+      "common": "85",
+      "rare": "102",
+      "epic": "119",
+      "heroic": "136"
+    }
   },
   "Slicing Shot": {
     "id": "Slicing Shot",
     "name": "Slicing Shot",
     "god": "Ares",
     "description": "sends a blade rift (damage every 0.1s for 4s)\r does not lodge into enemy",
-    "common": "10",
-    "rare": "11",
-    "epic": "13",
-    "heroic": "14"
+    "rarityData": {
+      "common": "10",
+      "rare": "11",
+      "epic": "13",
+      "heroic": "14"
+    }
   },
   "True Shot": {
     "id": "True Shot",
     "name": "True Shot",
     "god": "Artemis",
     "description": "fire an unblockable seeking arrow with 10% crit chance",
-    "common": "70",
-    "rare": "80",
-    "epic": "90",
-    "heroic": "100"
+    "rarityData": {
+      "common": "70",
+      "rare": "80",
+      "epic": "90",
+      "heroic": "100"
+    }
   },
   "Crush Shot": {
     "id": "Crush Shot",
     "name": "Crush Shot",
     "god": "Aphrodite",
     "description": "wide, short-range blast that inflicts weak",
-    "common": "90",
-    "rare": "99",
-    "epic": "108",
-    "heroic": "117"
+    "rarityData": {
+      "common": "90",
+      "rare": "99",
+      "epic": "108",
+      "heroic": "117"
+    }
   },
   "Trippy Shot": {
     "id": "Trippy Shot",
     "name": "Trippy Shot",
     "god": "Dionysus",
     "description": "lobs a projectile that bursts into festive fog does not lodge into enemy",
-    "common": "100",
-    "rare": "120",
-    "epic": "140",
-    "heroic": "160"
+    "rarityData": {
+      "common": "100",
+      "rare": "120",
+      "epic": "140",
+      "heroic": "160"
+    }
   },
   "Crystal Beam": {
     "id": "Crystal Beam",
     "name": "Crystal Beam",
     "god": "Demeter",
     "description": "crystal that fires a beam (damage every 0.2s for 5s) does not lodge into enemy",
-    "common": "8",
-    "rare": "9.2",
-    "epic": "10.4",
-    "heroic": "11.6"
+    "rarityData": {
+      "common": "8",
+      "rare": "9.2",
+      "epic": "10.4",
+      "heroic": "11.6"
+    }
   },
   "Flurry Cast": {
     "id": "Flurry Cast",
     "name": "Flurry Cast",
     "god": "Hermes",
     "description": "your cast is faster and fully automatic",
-    "common": "+20%",
-    "rare": "+40%",
-    "epic": "+60%",
-    "heroic": "+80%"
+    "rarityData": {
+      "common": "+20%",
+      "rare": "+40%",
+      "epic": "+60%",
+      "heroic": "+80%"
+    }
   },
   "Chaos Shot": {
     "id": "Chaos Shot",
     "name": "Chaos Shot",
     "god": "Chaos",
     "description": "your cast deals more damage",
-    "common": "15-25%",
-    "rare": "16-37.5%",
-    "epic": "24-50%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "15-25%",
+      "rare": "16-37.5%",
+      "epic": "24-50%",
+      "heroic": "n/a"
+    }
   },
   "Thunder Dash": {
     "id": "Thunder Dash",
     "name": "Thunder Dash",
     "god": "Zeus",
     "description": "causes a lightning bolt to strike nearby foes",
-    "common": "10",
-    "rare": "13.3",
-    "epic": "16.6",
-    "heroic": "20"
+    "rarityData": {
+      "common": "10",
+      "rare": "13.3",
+      "epic": "16.6",
+      "heroic": "20"
+    }
   },
   "Tidal Dash": {
     "id": "Tidal Dash",
     "name": "Tidal Dash",
     "god": "Poseidon",
     "description": "damages foes in an area and knocks them away",
-    "common": "35",
-    "rare": "42",
-    "epic": "49",
-    "heroic": "56"
+    "rarityData": {
+      "common": "35",
+      "rare": "42",
+      "epic": "49",
+      "heroic": "56"
+    }
   },
   "Divine Dash": {
     "id": "Divine Dash",
     "name": "Divine Dash",
     "god": "Athena",
     "description": "deals damage and deflects",
-    "common": "10",
-    "rare": "12",
-    "epic": "14",
-    "heroic": "16"
+    "rarityData": {
+      "common": "10",
+      "rare": "12",
+      "epic": "14",
+      "heroic": "16"
+    }
   },
   "Blade Dash": {
     "id": "Blade Dash",
     "name": "Blade Dash",
     "god": "Ares",
     "description": "create a blade rift at start (damage every 0.1s for 0.7s)",
-    "common": "5",
-    "rare": "6",
-    "epic": "7",
-    "heroic": "8"
+    "rarityData": {
+      "common": "5",
+      "rare": "6",
+      "epic": "7",
+      "heroic": "8"
+    }
   },
   "Hunter Dash": {
     "id": "Hunter Dash",
     "name": "Hunter Dash",
     "god": "Artemis",
     "description": "dash-strike deals more damage",
-    "common": "+50%",
-    "rare": "+75%",
-    "epic": "+100%",
-    "heroic": "+125%"
+    "rarityData": {
+      "common": "+50%",
+      "rare": "+75%",
+      "epic": "+100%",
+      "heroic": "+125%"
+    }
   },
   "Passion Dash": {
     "id": "Passion Dash",
     "name": "Passion Dash",
     "god": "Aphrodite",
     "description": "inflict damage and weak at end of dash",
-    "common": "20",
-    "rare": "24",
-    "epic": "28",
-    "heroic": "32"
+    "rarityData": {
+      "common": "20",
+      "rare": "24",
+      "epic": "28",
+      "heroic": "32"
+    }
   },
   "Drunken Dash": {
     "id": "Drunken Dash",
     "name": "Drunken Dash",
     "god": "Dionysus",
     "description": "inflicts hangover (stack 5, damage every 0.5s for 4s)",
-    "common": "2",
-    "rare": "3",
-    "epic": "4",
-    "heroic": "5"
+    "rarityData": {
+      "common": "2",
+      "rare": "3",
+      "epic": "4",
+      "heroic": "5"
+    }
   },
   "Mistral Dash": {
     "id": "Mistral Dash",
     "name": "Mistral Dash",
     "god": "Demeter",
     "description": "shoot a gust ahead that inflicts chill",
-    "common": "15",
-    "rare": "22.5",
-    "epic": "30",
-    "heroic": "37.5"
+    "rarityData": {
+      "common": "15",
+      "rare": "22.5",
+      "epic": "30",
+      "heroic": "37.5"
+    }
   },
   "Greatest Reflex": {
     "id": "Greatest Reflex",
     "name": "Greatest Reflex",
     "god": "Hermes",
     "description": "dash more times in a row",
-    "common": "+1",
-    "rare": "+2",
-    "epic": "+3",
-    "heroic": "+4"
+    "rarityData": {
+      "common": "+1",
+      "rare": "+2",
+      "epic": "+3",
+      "heroic": "+4"
+    }
   },
   "Chaos Lunge": {
     "id": "Chaos Lunge",
     "name": "Chaos Lunge",
     "god": "Chaos",
     "description": "your dash-attack deals more damage",
-    "common": "20-35%",
-    "rare": "22-52.5%",
-    "epic": "32-70%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "20-35%",
+      "rare": "22-52.5%",
+      "epic": "32-70%",
+      "heroic": "n/a"
+    }
   },
   "Zeus's Aid": {
     "id": "Zeus's Aid",
     "name": "Zeus's Aid",
     "god": "Zeus",
     "description": "lightning strikes nearby foes repeatedly for 1.5s (max 9s)",
-    "common": "60",
-    "rare": "66",
-    "epic": "72",
-    "heroic": "84"
+    "rarityData": {
+      "common": "60",
+      "rare": "66",
+      "epic": "72",
+      "heroic": "84"
+    }
   },
   "Poseidon's Aid": {
     "id": "Poseidon's Aid",
     "name": "Poseidon's Aid",
     "god": "Poseidon",
     "description": "surge into foes while impervious for 1.2s (max 7.2s)",
-    "common": "250",
-    "rare": "300",
-    "epic": "350",
-    "heroic": "400"
+    "rarityData": {
+      "common": "250",
+      "rare": "300",
+      "epic": "350",
+      "heroic": "400"
+    }
   },
   "Athena's Aid": {
     "id": "Athena's Aid",
     "name": "Athena's Aid",
     "god": "Athena",
     "description": "makes you invulnerable and deflects all attacks",
-    "common": "1.5s",
-    "rare": "1.65s",
-    "epic": "1.8s",
-    "heroic": "1.95s"
+    "rarityData": {
+      "common": "1.5s",
+      "rare": "1.65s",
+      "epic": "1.8s",
+      "heroic": "1.95s"
+    }
   },
   "Ares' Aid": {
     "id": "Ares' Aid",
     "name": "Ares' Aid",
     "god": "Ares",
     "description": "turn into an invulnerable rift blade for 2.5s (max 15s)",
-    "common": "15",
-    "rare": "18",
-    "epic": "21",
-    "heroic": "24"
+    "rarityData": {
+      "common": "15",
+      "rare": "18",
+      "epic": "21",
+      "heroic": "24"
+    }
   },
   "Artemis's Aid": {
     "id": "Artemis's Aid",
     "name": "Artemis's Aid",
     "god": "Artemis",
     "description": "fire 1 unblockable seeking arrow (max 10) with +35% crit",
-    "common": "100",
-    "rare": "110",
-    "epic": "120",
-    "heroic": "130"
+    "rarityData": {
+      "common": "100",
+      "rare": "110",
+      "epic": "120",
+      "heroic": "130"
+    }
   },
   "Aphrodite's Aid": {
     "id": "Aphrodite's Aid",
     "name": "Aphrodite's Aid",
     "god": "Aphrodite",
     "description": "fire a seeking piercing projectile that inflicts charm",
-    "common": "5",
-    "rare": "5.5",
-    "epic": "6",
-    "heroic": "6.5"
+    "rarityData": {
+      "common": "5",
+      "rare": "5.5",
+      "epic": "6",
+      "heroic": "6.5"
+    }
   },
   "Dionysus's Aid": {
     "id": "Dionysus's Aid",
     "name": "Dionysus's Aid",
     "god": "Dionysus",
     "description": "inflict hangover to all foes around you for 1.5s (max 9s)",
-    "common": "15",
-    "rare": "16.5",
-    "epic": "18",
-    "heroic": "19.5"
+    "rarityData": {
+      "common": "15",
+      "rare": "16.5",
+      "epic": "18",
+      "heroic": "19.5"
+    }
   },
   "Demeter's Aid": {
     "id": "Demeter's Aid",
     "name": "Demeter's Aid",
     "god": "Demeter",
     "description": "create a winter vortex that chills and damages every 0.25s for 5s (max 15s)",
-    "common": "15",
-    "rare": "22.5",
-    "epic": "30",
-    "heroic": "37.5"
+    "rarityData": {
+      "common": "15",
+      "rare": "22.5",
+      "epic": "30",
+      "heroic": "37.5"
+    }
   },
   "Second Wind": {
     "id": "Second Wind",
     "name": "Second Wind",
     "god": "Hermes",
     "description": "after using call, gain dodge chance and move speed for 6s",
-    "common": "+30%",
-    "rare": "+37.5%",
-    "epic": "+45%",
-    "heroic": "+52.5%"
+    "rarityData": {
+      "common": "+30%",
+      "rare": "+37.5%",
+      "epic": "+45%",
+      "heroic": "+52.5%"
+    }
   },
   "Static Discharge": {
     "id": "Static Discharge",
     "name": "Static Discharge",
     "god": "Zeus",
     "description": "lightning effects also cause jolted (next attack self-inflicts damage)",
-    "common": "60",
-    "rare": "90",
-    "epic": "120",
-    "heroic": "150"
+    "rarityData": {
+      "common": "60",
+      "rare": "90",
+      "epic": "120",
+      "heroic": "150"
+    }
   },
   "Razor Shoals": {
     "id": "Razor Shoals",
     "name": "Razor Shoals",
     "god": "Poseidon",
     "description": "knock-away effects also cause rupture (take damage every 0.2s while moving)",
-    "common": "5",
-    "rare": "7.5",
-    "epic": "10",
-    "heroic": "12.5"
+    "rarityData": {
+      "common": "5",
+      "rare": "7.5",
+      "epic": "10",
+      "heroic": "12.5"
+    }
   },
   "Blinding Flash": {
     "id": "Blinding Flash",
     "name": "Blinding Flash",
     "god": "Athena",
     "description": "deflect also makes foes exposed for 5s (take more damage from behind)",
-    "common": "+50%",
-    "rare": "+62.5%",
-    "epic": "+75%",
-    "heroic": "+87.5%"
+    "rarityData": {
+      "common": "+50%",
+      "rare": "+62.5%",
+      "epic": "+75%",
+      "heroic": "+87.5%"
+    }
   },
   "Dire Misfortune": {
     "id": "Dire Misfortune",
     "name": "Dire Misfortune",
     "god": "Ares",
     "description": "NOT a status curse doom effects deal more damage when applied multiple times",
-    "common": "5",
-    "rare": "7.5",
-    "epic": "10",
-    "heroic": "12.5"
+    "rarityData": {
+      "common": "5",
+      "rare": "7.5",
+      "epic": "10",
+      "heroic": "12.5"
+    }
   },
   "Hunter's Mark": {
     "id": "Hunter's Mark",
     "name": "Hunter's Mark",
     "god": "Artemis",
     "description": "after dealing critical damage, a foe near it is marked (higher chance of crit for 2.5s)",
-    "common": "+30%",
-    "rare": "+45%",
-    "epic": "+75%",
-    "heroic": "+81%"
+    "rarityData": {
+      "common": "+30%",
+      "rare": "+45%",
+      "epic": "+75%",
+      "heroic": "+81%"
+    }
   },
   "Sweet Surrender": {
     "id": "Sweet Surrender",
     "name": "Sweet Surrender",
     "god": "Aphrodite",
     "description": "weak-afflicted foes are more susceptible to damage",
-    "common": "+10%",
-    "rare": "+15%",
-    "epic": "+25%",
-    "heroic": "+27%"
+    "rarityData": {
+      "common": "+10%",
+      "rare": "+15%",
+      "epic": "+25%",
+      "heroic": "+27%"
+    }
   },
   "Numbing Sensation": {
     "id": "Numbing Sensation",
     "name": "Numbing Sensation",
     "god": "Dionysus",
     "description": "NOT a status curse hangover effects also makes foes move slower for 4s",
-    "common": "-15%",
-    "rare": "-22.5%",
-    "epic": "-33%",
-    "heroic": "-37.5%"
+    "rarityData": {
+      "common": "-15%",
+      "rare": "-22.5%",
+      "epic": "-33%",
+      "heroic": "-37.5%"
+    }
   },
   "Killing Freeze": {
     "id": "Killing Freeze",
     "name": "Killing Freeze",
     "god": "Demeter",
     "description": "NOT a status curse applying chill to all enemies causes them to slow and decay (every 0.5s)",
-    "common": "-10%, 20",
-    "rare": "-15%, 30",
-    "epic": "-20%, 40",
-    "heroic": "-25%, 50"
+    "rarityData": {
+      "common": "-10%, 20",
+      "rare": "-15%, 30",
+      "epic": "-20%, 40",
+      "heroic": "-25%, 50"
+    }
   },
   "Hyper Sprint": {
     "id": "Hyper Sprint",
     "name": "Hyper Sprint",
     "god": "Hermes",
     "description": "after a dash, gain +% move speed and sturdy for a certain amount of time",
-    "common": "+50%, 0.5s",
-    "rare": "+70%, 0.75s",
-    "epic": "+100%, 1.0s",
-    "heroic": "+125%, 1.25s"
+    "rarityData": {
+      "common": "+50%, 0.5s",
+      "rare": "+70%, 0.75s",
+      "epic": "+100%, 1.0s",
+      "heroic": "+125%, 1.25s"
+    }
   },
   "Soul": {
     "id": "Soul",
     "name": "Soul",
     "god": "Chaos",
     "description": "gain health",
-    "common": "15-20",
-    "rare": "16-30",
-    "epic": "24-40",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "15-20",
+      "rare": "16-30",
+      "epic": "24-40",
+      "heroic": "n/a"
+    }
   },
   "Storm Lightning": {
     "id": "Storm Lightning",
     "name": "Storm Lightning",
     "god": "Zeus",
     "description": "chain-lightning effects bounce more times before expiring",
-    "common": "+2",
-    "rare": "+4",
-    "epic": "+6",
-    "heroic": "+8"
+    "rarityData": {
+      "common": "+2",
+      "rare": "+4",
+      "epic": "+6",
+      "heroic": "+8"
+    }
   },
   "Wave Pounding": {
     "id": "Wave Pounding",
     "name": "Wave Pounding",
     "god": "Poseidon",
     "description": "boons with knock-away effects deal bonus damage to bosses",
-    "common": "+10%",
-    "rare": "+20%",
-    "epic": "+30%",
-    "heroic": "+40%"
+    "rarityData": {
+      "common": "+10%",
+      "rare": "+20%",
+      "epic": "+30%",
+      "heroic": "+40%"
+    }
   },
   "Brilliant Riposte": {
     "id": "Brilliant Riposte",
     "name": "Brilliant Riposte",
     "god": "Athena",
     "description": "when you deflect attacks, they deal more damage",
-    "common": "+80%",
-    "rare": "+120%",
-    "epic": "+200%"
+    "rarityData": {
+      "common": "+80%",
+      "rare": "+120%",
+      "epic": "+200%"
+    }
   },
   "Impending Doom": {
     "id": "Impending Doom",
     "name": "Impending Doom",
     "god": "Ares",
     "description": "doom effects deal more damage, after +0.5s",
-    "common": "+60%",
-    "rare": "+66%",
-    "epic": "+72%",
-    "heroic": "+78%"
+    "rarityData": {
+      "common": "+60%",
+      "rare": "+66%",
+      "epic": "+72%",
+      "heroic": "+78%"
+    }
   },
   "Pressure Points": {
     "id": "Pressure Points",
     "name": "Pressure Points",
     "god": "Artemis",
     "description": "any damage your deal has a chance to be critical",
-    "common": "+3%",
-    "rare": "+4%",
-    "epic": "+5%",
-    "heroic": "+6%"
+    "rarityData": {
+      "common": "+3%",
+      "rare": "+4%",
+      "epic": "+5%",
+      "heroic": "+6%"
+    }
   },
   "Broken Resolve": {
     "id": "Broken Resolve",
     "name": "Broken Resolve",
     "god": "Aphrodite",
     "description": "weak effects are more potent (more damage reduction)",
-    "common": "-10%",
-    "rare": "-12.5%",
-    "epic": "-15%",
-    "heroic": "-17.5%"
+    "rarityData": {
+      "common": "-10%",
+      "rare": "-12.5%",
+      "epic": "-15%",
+      "heroic": "-17.5%"
+    }
   },
   "Peer Pressure": {
     "id": "Peer Pressure",
     "name": "Peer Pressure",
     "god": "Dionysus",
     "description": "hangover-afflicted foes contaminate other nearby foes every 4s",
-    "common": "4",
-    "rare": "6",
-    "epic": "10",
-    "heroic": "10.8"
+    "rarityData": {
+      "common": "4",
+      "rare": "6",
+      "epic": "10",
+      "heroic": "10.8"
+    }
   },
   "Arctic Blast": {
     "id": "Arctic Blast",
     "name": "Arctic Blast",
     "god": "Demeter",
     "description": "applying 10 stacks of chill causes a blast, clearing the effect",
-    "common": "100",
-    "rare": "120",
-    "epic": "140",
-    "heroic": "160"
+    "rarityData": {
+      "common": "100",
+      "rare": "120",
+      "epic": "140",
+      "heroic": "160"
+    }
   },
   "Greater Haste": {
     "id": "Greater Haste",
     "name": "Greater Haste",
     "god": "Hermes",
     "description": "move faster",
-    "common": "+20%",
-    "rare": "+30%",
-    "epic": "+40%",
-    "heroic": "+49%"
+    "rarityData": {
+      "common": "+20%",
+      "rare": "+30%",
+      "epic": "+40%",
+      "heroic": "+49%"
+    }
   },
   "Assault": {
     "id": "Assault",
     "name": "Assault",
     "god": "Chaos",
     "description": "deal bonus damage striking undamaged foes",
-    "heroic": "n/a"
+    "rarityData": {
+      "heroic": "n/a"
+    }
   },
   "High Voltage": {
     "id": "High Voltage",
     "name": "High Voltage",
     "god": "Zeus",
     "description": "lightning bolt effects deal damage in a larger area",
-    "common": "+60%",
-    "rare": "+72%",
-    "epic": "+84%",
-    "heroic": "+96%"
+    "rarityData": {
+      "common": "+60%",
+      "rare": "+72%",
+      "epic": "+84%",
+      "heroic": "+96%"
+    }
   },
   "Typhoon's Fury": {
     "id": "Typhoon's Fury",
     "name": "Typhoon's Fury",
     "god": "Poseidon",
     "description": "deal more damage when slamming foes into barriers",
-    "common": "300%",
-    "rare": "350%",
-    "epic": "400%",
-    "heroic": "450%"
+    "rarityData": {
+      "common": "300%",
+      "rare": "350%",
+      "epic": "400%",
+      "heroic": "450%"
+    }
   },
   "Black Metal": {
     "id": "Black Metal",
     "name": "Black Metal",
     "god": "Ares",
     "description": "blade rift deals damage in a wider area",
-    "common": "+20%",
-    "rare": "+22%",
-    "epic": "+24%",
-    "heroic": "+26%"
+    "rarityData": {
+      "common": "+20%",
+      "rare": "+22%",
+      "epic": "+24%",
+      "heroic": "+26%"
+    }
   },
   "Clean Kill": {
     "id": "Clean Kill",
     "name": "Clean Kill",
     "god": "Artemis",
     "description": "critical effects deal even more damage",
-    "common": "+15%",
-    "rare": "+22.5%",
-    "epic": "+30%",
-    "heroic": "+37.5%"
+    "rarityData": {
+      "common": "+15%",
+      "rare": "+22.5%",
+      "epic": "+30%",
+      "heroic": "+37.5%"
+    }
   },
   "Empty Inside": {
     "id": "Empty Inside",
     "name": "Empty Inside",
     "god": "Aphrodite",
     "description": "weak effects have longer duration",
-    "common": "+5s",
-    "rare": "+7.5s",
-    "epic": "+10s",
-    "heroic": "+12.5s"
+    "rarityData": {
+      "common": "+5s",
+      "rare": "+7.5s",
+      "epic": "+10s",
+      "heroic": "+12.5s"
+    }
   },
   "Bad Influence": {
     "id": "Bad Influence",
     "name": "Bad Influence",
     "god": "Dionysus",
     "description": "deal more damage while 3 foes are hangover-afflicted",
-    "common": "+50%",
-    "rare": "+75%",
-    "epic": "+100%",
-    "heroic": "+125%"
+    "rarityData": {
+      "common": "+50%",
+      "rare": "+75%",
+      "epic": "+100%",
+      "heroic": "+125%"
+    }
   },
   "Glacial Glare (C)": {
     "id": "Glacial Glare (C)",
     "name": "Glacial Glare (C)",
     "god": "Demeter",
-    "description": "your cast fires for a longer duration and inflicts chill"
+    "description": "your cast fires for a longer duration and inflicts chill",
+    "rarityData": {}
   },
   "Rush Delivery": {
     "id": "Rush Delivery",
     "name": "Rush Delivery",
     "god": "Hermes",
     "description": "deal bonus damage based on any bonus move speed",
-    "common": "+15%",
-    "rare": "+20%",
-    "epic": "+25%",
-    "heroic": "+30%"
+    "rarityData": {
+      "common": "+15%",
+      "rare": "+20%",
+      "epic": "+25%",
+      "heroic": "+30%"
+    }
   },
   "Ambush": {
     "id": "Ambush",
     "name": "Ambush",
     "god": "Chaos",
     "description": "deal bonus damage striking foes from behind",
-    "heroic": "n/a"
+    "rarityData": {
+      "heroic": "n/a"
+    }
   },
   "Double Strike": {
     "id": "Double Strike",
     "name": "Double Strike",
     "god": "Zeus",
     "description": "lightning bolt effects have a chance to strike twice",
-    "common": "+25%",
-    "rare": "+30%",
-    "epic": "+35%",
-    "heroic": "+40%"
+    "rarityData": {
+      "common": "+25%",
+      "rare": "+30%",
+      "epic": "+35%",
+      "heroic": "+40%"
+    }
   },
   "Breaking Wave": {
     "id": "Breaking Wave",
     "name": "Breaking Wave",
     "god": "Poseidon",
     "description": "slamming foes into walls or corners creates a watery blast in the area which stuns",
-    "common": "100",
-    "rare": "150",
-    "epic": "250",
-    "heroic": "270"
+    "rarityData": {
+      "common": "100",
+      "rare": "150",
+      "epic": "250",
+      "heroic": "270"
+    }
   },
   "Engulfing Vortex": {
     "id": "Engulfing Vortex",
     "name": "Engulfing Vortex",
     "god": "Ares",
     "description": "blade rift lasts longer and pulls foes in",
-    "common": "+0.2s",
-    "rare": "+0.3s",
-    "epic": "+0.5s",
-    "heroic": "+0.54s"
+    "rarityData": {
+      "common": "+0.2s",
+      "rare": "+0.3s",
+      "epic": "+0.5s",
+      "heroic": "+0.54s"
+    }
   },
   "Hide Breaker": {
     "id": "Hide Breaker",
     "name": "Hide Breaker",
     "god": "Artemis",
     "description": "critical effects deal even more damage to armor",
-    "common": "+200%",
-    "rare": "+300%",
-    "epic": "+400%",
-    "heroic": "+500%"
+    "rarityData": {
+      "common": "+200%",
+      "rare": "+300%",
+      "epic": "+400%",
+      "heroic": "+500%"
+    }
   },
   "Blown Kiss (C)": {
     "id": "Blown Kiss (C)",
     "name": "Blown Kiss (C)",
     "god": "Aphrodite",
-    "description": "your cast shoots farther and is stronger against undamaged foes"
+    "description": "your cast shoots farther and is stronger against undamaged foes",
+    "rarityData": {}
   },
   "High Tolerance (C)": {
     "id": "High Tolerance (C)",
     "name": "High Tolerance (C)",
     "god": "Dionysus",
     "description": "take less damage while standing in festive fog",
-    "common": "-15%",
-    "rare": "-22.5%",
-    "epic": "-37.5%",
-    "heroic": "-40.5%"
+    "rarityData": {
+      "common": "-15%",
+      "rare": "-22.5%",
+      "epic": "-37.5%",
+      "heroic": "-40.5%"
+    }
   },
   "Heaven's Vengeance": {
     "id": "Heaven's Vengeance",
     "name": "Heaven's Vengeance",
     "god": "Zeus",
     "description": "... your foe is struck by lightning",
-    "common": "80",
-    "rare": "120",
-    "epic": "160",
-    "heroic": "200"
+    "rarityData": {
+      "common": "80",
+      "rare": "120",
+      "epic": "160",
+      "heroic": "200"
+    }
   },
   "Holy Shield": {
     "id": "Holy Shield",
     "name": "Holy Shield",
     "god": "Athena",
     "description": "... damage nearby foes and deflect",
-    "common": "30",
-    "rare": "45",
-    "epic": "60",
-    "heroic": "75"
+    "rarityData": {
+      "common": "30",
+      "rare": "45",
+      "epic": "60",
+      "heroic": "75"
+    }
   },
   "Curse of Vengeance": {
     "id": "Curse of Vengeance",
     "name": "Curse of Vengeance",
     "god": "Ares",
     "description": "... inflict doom on surrounding foes",
-    "common": "90",
-    "rare": "99",
-    "epic": "108",
-    "heroic": "117"
+    "rarityData": {
+      "common": "90",
+      "rare": "99",
+      "epic": "108",
+      "heroic": "117"
+    }
   },
   "Wave of Despair": {
     "id": "Wave of Despair",
     "name": "Wave of Despair",
     "god": "Aphrodite",
     "description": "... damage nearby foes and inflict weak",
-    "common": "50",
-    "rare": "75",
-    "epic": "100",
-    "heroic": "125"
+    "rarityData": {
+      "common": "50",
+      "rare": "75",
+      "epic": "100",
+      "heroic": "125"
+    }
   },
   "Frozen Touch": {
     "id": "Frozen Touch",
     "name": "Frozen Touch",
     "god": "Demeter",
-    "description": "... damage and completely chill  your foe"
+    "description": "... damage and completely chill  your foe",
+    "rarityData": {}
   },
   "Quick Recovery": {
     "id": "Quick Recovery",
     "name": "Quick Recovery",
     "god": "Hermes",
     "description": "... quickly dash to recover some health lost",
-    "common": "20%",
-    "rare": "30%",
-    "epic": "40%",
-    "heroic": "50%"
+    "rarityData": {
+      "common": "20%",
+      "rare": "30%",
+      "epic": "40%",
+      "heroic": "50%"
+    }
   },
   "Ruin": {
     "id": "Ruin",
     "name": "Ruin",
     "god": "Chaos",
-    "description": "traps deal bonus damage to foes"
+    "description": "traps deal bonus damage to foes",
+    "rarityData": {}
   },
   "Lightning Reflexes": {
     "id": "Lightning Reflexes",
     "name": "Lightning Reflexes",
     "god": "Zeus",
-    "description": "dash just before being hit to counter-attack with a lightning bolt"
+    "description": "dash just before being hit to counter-attack with a lightning bolt",
+    "rarityData": {}
   },
   "Hydraulic Might": {
     "id": "Hydraulic Might",
     "name": "Hydraulic Might",
     "god": "Poseidon",
     "description": "attack and special are stronger in the first 5 seconds of encounters",
-    "rare": "+174%"
+    "rarityData": {
+      "rare": "+174%"
+    }
   },
   "Bronze Skin": {
     "id": "Bronze Skin",
     "name": "Bronze Skin",
     "god": "Athena",
     "description": "resist damage from foes' attacks",
-    "common": "-5%",
-    "rare": "-7.5%",
-    "epic": "-10%",
-    "heroic": "-12.5%"
+    "rarityData": {
+      "common": "-5%",
+      "rare": "-7.5%",
+      "epic": "-10%",
+      "heroic": "-12.5%"
+    }
   },
   "Urge to Kill": {
     "id": "Urge to Kill",
     "name": "Urge to Kill",
     "god": "Ares",
     "description": "attack and cast deal more damage",
-    "common": "+8%",
-    "rare": "+10%",
-    "epic": "+12%",
-    "heroic": "+14%"
+    "rarityData": {
+      "common": "+8%",
+      "rare": "+10%",
+      "epic": "+12%",
+      "heroic": "+14%"
+    }
   },
   "Support Fire": {
     "id": "Support Fire",
     "name": "Support Fire",
     "god": "Artemis",
     "description": "after you hit with an attack, cast, or special, fire an unblockable seeking arrow",
-    "common": "10",
-    "rare": "12",
-    "epic": "14",
-    "heroic": "16"
+    "rarityData": {
+      "common": "10",
+      "rare": "12",
+      "epic": "14",
+      "heroic": "16"
+    }
   },
   "Different League": {
     "id": "Different League",
     "name": "Different League",
     "god": "Aphrodite",
     "description": "resist damage from nearby foes' attacks",
-    "common": "-10%",
-    "rare": "-12.5%",
-    "epic": "-15%",
-    "heroic": "-17.5%"
+    "rarityData": {
+      "common": "-10%",
+      "rare": "-12.5%",
+      "epic": "-15%",
+      "heroic": "-17.5%"
+    }
   },
   "Positive Outlook": {
     "id": "Positive Outlook",
     "name": "Positive Outlook",
     "god": "Dionysus",
     "description": "take less damage while at 40% health or below",
-    "common": "-10%",
-    "rare": "-15%",
-    "epic": "-20%"
+    "rarityData": {
+      "common": "-10%",
+      "rare": "-15%",
+      "epic": "-20%"
+    }
   },
   "Greater Evasion": {
     "id": "Greater Evasion",
     "name": "Greater Evasion",
     "god": "Hermes",
     "description": "more chance to dodge",
-    "common": "+15%",
-    "rare": "+20%",
-    "epic": "+25%",
-    "heroic": "+30%"
+    "rarityData": {
+      "common": "+15%",
+      "rare": "+20%",
+      "epic": "+25%",
+      "heroic": "+30%"
+    }
   },
   "Favor": {
     "id": "Favor",
     "name": "Favor",
     "god": "Chaos",
     "description": "boons have more chance of being rare or better",
-    "common": "+11-20%",
-    "rare": "+12-30%",
-    "epic": "+18-40%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "+11-20%",
+      "rare": "+12-30%",
+      "epic": "+18-40%",
+      "heroic": "n/a"
+    }
   },
   "Sure Footing": {
     "id": "Sure Footing",
     "name": "Sure Footing",
     "god": "Athena",
     "description": "resist damage from traps",
-    "common": "-60%",
-    "rare": "-75%",
-    "epic": "-90%",
-    "heroic": "-95%"
+    "rarityData": {
+      "common": "-60%",
+      "rare": "-75%",
+      "epic": "-90%",
+      "heroic": "-95%"
+    }
   },
   "Battle Rage (K)": {
     "id": "Battle Rage (K)",
     "name": "Battle Rage (K)",
     "god": "Ares",
     "description": "after slaying a foe, your next attack or special deals more damage",
-    "common": "+100%",
-    "rare": "+150%",
-    "epic": "+200%",
-    "heroic": "+250%"
+    "rarityData": {
+      "common": "+100%",
+      "rare": "+150%",
+      "epic": "+200%",
+      "heroic": "+250%"
+    }
   },
   "Dying Lament (K)": {
     "id": "Dying Lament (K)",
     "name": "Dying Lament (K)",
     "god": "Aphrodite",
     "description": "when floes are slain, damage nearby foes and inflict weak",
-    "common": "-10%",
-    "rare": "-12.5%",
-    "epic": "-15%",
-    "heroic": "-17.5%"
+    "rarityData": {
+      "common": "-10%",
+      "rare": "-12.5%",
+      "epic": "-15%",
+      "heroic": "-17.5%"
+    }
   },
   "After Party": {
     "id": "After Party",
     "name": "After Party",
     "god": "Dionysus",
     "description": "if your health is low after an encounter, restore to the threshold",
-    "common": "30%",
-    "rare": "37.5%",
-    "epic": "40%",
-    "heroic": "60%"
+    "rarityData": {
+      "common": "30%",
+      "rare": "37.5%",
+      "epic": "40%",
+      "heroic": "60%"
+    }
   },
   "Affluence": {
     "id": "Affluence",
     "name": "Affluence",
     "god": "Chaos",
     "description": "coin is worth more",
-    "common": "+15-30%",
-    "rare": "+16-45%",
-    "epic": "+24-60%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "+15-30%",
+      "rare": "+16-45%",
+      "epic": "+24-60%",
+      "heroic": "n/a"
+    }
   },
   "Clouded Judgment": {
     "id": "Clouded Judgment",
     "name": "Clouded Judgment",
     "god": "Zeus",
     "description": "god gauge charges faster when dealing or taking damage",
-    "common": "+10%",
-    "rare": "+12%",
-    "epic": "+14%",
-    "heroic": "+16%"
+    "rarityData": {
+      "common": "+10%",
+      "rare": "+12%",
+      "epic": "+14%",
+      "heroic": "+16%"
+    }
   },
   "Rip Current (Call)": {
     "id": "Rip Current (Call)",
     "name": "Rip Current (Call)",
     "god": "Poseidon",
-    "description": "makes Poseidon's Aid last longer and pull foes in"
+    "description": "makes Poseidon's Aid last longer and pull foes in",
+    "rarityData": {}
   },
   "Proud Bearing": {
     "id": "Proud Bearing",
     "name": "Proud Bearing",
     "god": "Athena",
     "description": "begin each encounter with the god gauge partly full",
-    "common": "20%",
-    "rare": "25%",
-    "epic": "30%",
-    "heroic": "40%"
+    "rarityData": {
+      "common": "20%",
+      "rare": "25%",
+      "epic": "30%",
+      "heroic": "40%"
+    }
   },
   "Blood Frenzy": {
     "id": "Blood Frenzy",
     "name": "Blood Frenzy",
     "god": "Ares",
-    "description": "after using death defiance, deal more damage in that encounter"
+    "description": "after using death defiance, deal more damage in that encounter",
+    "rarityData": {}
   },
   "Exit Wounds": {
     "id": "Exit Wounds",
     "name": "Exit Wounds",
     "god": "Artemis",
     "description": "foes take damage when cast gems become dislodged",
-    "common": "100",
-    "rare": "120",
-    "epic": "140",
-    "heroic": "160"
+    "rarityData": {
+      "common": "100",
+      "rare": "120",
+      "epic": "140",
+      "heroic": "160"
+    }
   },
   "Snow Burst": {
     "id": "Snow Burst",
     "name": "Snow Burst",
     "god": "Demeter",
     "description": "whenever you cast, damage nearby foes and inflict chill",
-    "common": "40",
-    "rare": "50",
-    "epic": "60",
-    "heroic": "70"
+    "rarityData": {
+      "common": "40",
+      "rare": "50",
+      "epic": "60",
+      "heroic": "70"
+    }
   },
   "Quick Reload": {
     "id": "Quick Reload",
     "name": "Quick Reload",
     "god": "Hermes",
     "description": "foes drop cast gems stuck in them faster",
-    "rare": "6.67s"
+    "rarityData": {
+      "rare": "6.67s"
+    }
   },
   "Grasp": {
     "id": "Grasp",
     "name": "Grasp",
     "god": "Chaos",
     "description": "gain cast gem(s)",
-    "common": "+1",
-    "rare": "+2",
-    "epic": "+3",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "+1",
+      "rare": "+2",
+      "epic": "+3",
+      "heroic": "n/a"
+    }
   },
   "Billowing Strength": {
     "id": "Billowing Strength",
     "name": "Billowing Strength",
     "god": "Zeus",
     "description": "after using your call, deal more damage for 15s",
-    "common": "+20%",
-    "rare": "+22%",
-    "epic": "+24%",
-    "heroic": "+20%"
+    "rarityData": {
+      "common": "+20%",
+      "rare": "+22%",
+      "epic": "+24%",
+      "heroic": "+20%"
+    }
   },
   "Boiling Point": {
     "id": "Boiling Point",
     "name": "Boiling Point",
     "god": "Poseidon",
     "description": "god gauge charges faster when taking damage",
-    "common": "+40%",
-    "rare": "+50%",
-    "epic": "+60%",
-    "heroic": "+70%"
+    "rarityData": {
+      "common": "+40%",
+      "rare": "+50%",
+      "epic": "+60%",
+      "heroic": "+70%"
+    }
   },
   "Hunter Instinct": {
     "id": "Hunter Instinct",
     "name": "Hunter Instinct",
     "god": "Artemis",
     "description": "god gauge charges faster when dealing critical damage",
-    "common": "+0.25%",
-    "rare": "+0.3%",
-    "epic": "+0.35%",
-    "heroic": "+0.4%"
+    "rarityData": {
+      "common": "+0.25%",
+      "rare": "+0.3%",
+      "epic": "+0.35%",
+      "heroic": "+0.4%"
+    }
   },
   "Ravenous Will": {
     "id": "Ravenous Will",
     "name": "Ravenous Will",
     "god": "Demeter",
     "description": "while you have no cast gems, take 10% less damage and deal more",
-    "common": "+10%",
-    "rare": "+20%",
-    "epic": "+30%",
-    "heroic": "+40%"
+    "rarityData": {
+      "common": "+10%",
+      "rare": "+20%",
+      "epic": "+30%",
+      "heroic": "+40%"
+    }
   },
   "Quick Favor": {
     "id": "Quick Favor",
     "name": "Quick Favor",
     "god": "Hermes",
-    "description": "your god gauge slowly charges up automatically"
+    "description": "your god gauge slowly charges up automatically",
+    "rarityData": {}
   },
   "Ocean's Bounty": {
     "id": "Ocean's Bounty",
     "name": "Ocean's Bounty",
     "god": "Poseidon",
     "description": "any gems, darkness, or coin are worth more",
-    "common": "+50%",
-    "rare": "+55%",
-    "epic": "+60%",
-    "heroic": "+65%"
+    "rarityData": {
+      "common": "+50%",
+      "rare": "+55%",
+      "epic": "+60%",
+      "heroic": "+65%"
+    }
   },
   "Deathless Stand": {
     "id": "Deathless Stand",
     "name": "Deathless Stand",
     "god": "Athena",
     "description": "death defiance makes you impervious longer replenish 1 charge",
-    "common": "+2s",
-    "rare": "+2.5s",
-    "epic": "+3s",
-    "heroic": "+3.5s"
+    "rarityData": {
+      "common": "+2s",
+      "rare": "+2.5s",
+      "epic": "+3s",
+      "heroic": "+3.5s"
+    }
   },
   "Life Affirmation": {
     "id": "Life Affirmation",
     "name": "Life Affirmation",
     "god": "Aphrodite",
     "description": "any health increase rewards are worth more",
-    "common": "+30%",
-    "rare": "+36%",
-    "epic": "+42%",
-    "heroic": "+48%"
+    "rarityData": {
+      "common": "+30%",
+      "rare": "+36%",
+      "epic": "+42%",
+      "heroic": "+48%"
+    }
   },
   "Premium Vintage": {
     "id": "Premium Vintage",
     "name": "Premium Vintage",
     "god": "Dionysus",
     "description": "gain health when you pick up nectar receive 1 nectar",
-    "common": "20",
-    "rare": "25",
-    "epic": "30",
-    "heroic": "35"
+    "rarityData": {
+      "common": "20",
+      "rare": "25",
+      "epic": "30",
+      "heroic": "35"
+    }
   },
   "Nourished Soul": {
     "id": "Nourished Soul",
     "name": "Nourished Soul",
     "god": "Demeter",
     "description": "any health effects are more potent restore +30% health",
-    "common": "+30%",
-    "rare": "+32.25%",
-    "epic": "+34.5%",
-    "heroic": "+36.75%"
+    "rarityData": {
+      "common": "+30%",
+      "rare": "+32.25%",
+      "epic": "+34.5%",
+      "heroic": "+36.75%"
+    }
   },
   "Side Hustle": {
     "id": "Side Hustle",
     "name": "Side Hustle",
     "god": "Hermes",
     "description": "gain some money each time you enter a chamber",
-    "common": "+10",
-    "rare": "+13",
-    "epic": "+16",
-    "heroic": "+19"
+    "rarityData": {
+      "common": "+10",
+      "rare": "+13",
+      "epic": "+16",
+      "heroic": "+19"
+    }
   },
   "Eclipse": {
     "id": "Eclipse",
     "name": "Eclipse",
     "god": "Chaos",
     "description": "darkness is worth more",
-    "common": "+20-40%",
-    "rare": "+22-60%",
-    "epic": "+32-80%",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "+20-40%",
+      "rare": "+22-60%",
+      "epic": "+32-80%",
+      "heroic": "n/a"
+    }
   },
   "Sunken Treasure": {
     "id": "Sunken Treasure",
     "name": "Sunken Treasure",
     "god": "Poseidon",
     "description": "gain an assortment of gems, 50-100 darkness, 50-70 coin, and 10-30 health (nectar)",
-    "common": "1x",
-    "rare": "1.5x",
-    "epic": "2.2x",
-    "heroic": "n/a"
+    "rarityData": {
+      "common": "1x",
+      "rare": "1.5x",
+      "epic": "2.2x",
+      "heroic": "n/a"
+    }
   },
   "Last Stand": {
     "id": "Last Stand",
     "name": "Last Stand",
     "god": "Athena",
     "description": "death defiance restores more health than usual replenish 1 charge",
-    "common": "+10%",
-    "rare": "+12%",
-    "epic": "+14%",
-    "heroic": "+16%"
+    "rarityData": {
+      "common": "+10%",
+      "rare": "+12%",
+      "epic": "+14%",
+      "heroic": "+16%"
+    }
   },
   "Strong Drink": {
     "id": "Strong Drink",
     "name": "Strong Drink",
     "god": "Dionysus",
     "description": "using fountains restores all your health and gives you bonus damage",
-    "common": "3%",
-    "rare": "4%",
-    "epic": "5%"
+    "rarityData": {
+      "common": "3%",
+      "rare": "4%",
+      "epic": "5%"
+    }
   },
   "Rare Crop": {
     "id": "Rare Crop",
     "name": "Rare Crop",
     "god": "Demeter",
     "description": "your boons become common, then gain rarity every 3 encounters",
-    "common": "1",
-    "rare": "2",
-    "epic": "3"
+    "rarityData": {
+      "common": "1",
+      "rare": "2",
+      "epic": "3"
+    }
   },
   "Brilliance": {
     "id": "Brilliance",
     "name": "Brilliance",
     "god": "Chaos",
-    "description": "gemstones are worth more"
+    "description": "gemstones are worth more",
+    "rarityData": {}
   },
   "Splitting Bolt": {
     "id": "Splitting Bolt",
     "name": "Splitting Bolt",
     "god": "Zeus",
-    "description": "all lightning effects create an additional burst (5 bounces, 40 damage)"
+    "description": "all lightning effects create an additional burst (5 bounces, 40 damage)",
+    "rarityData": {}
   },
   "Second Wave": {
     "id": "Second Wave",
     "name": "Second Wave",
     "god": "Poseidon",
-    "description": "knock-away effects shove foes a second time 0.7s after the first"
+    "description": "knock-away effects shove foes a second time 0.7s after the first",
+    "rarityData": {}
   },
   "Divine Protection": {
     "id": "Divine Protection",
     "name": "Divine Protection",
     "god": "Athena",
-    "description": "gain a barrier that negates incoming damage (20s cooldown)"
+    "description": "gain a barrier that negates incoming damage (20s cooldown)",
+    "rarityData": {}
   },
   "Vicious Cycle": {
     "id": "Vicious Cycle",
     "name": "Vicious Cycle",
     "god": "Ares",
-    "description": "blade rift effects deal 1 more damage for each consecutive hit"
+    "description": "blade rift effects deal 1 more damage for each consecutive hit",
+    "rarityData": {}
   },
   "Fully Loaded": {
     "id": "Fully Loaded",
     "name": "Fully Loaded",
     "god": "Artemis",
-    "description": "gain +2 cast gems"
+    "description": "gain +2 cast gems",
+    "rarityData": {}
   },
   "Unhealthy Fixation": {
     "id": "Unhealthy Fixation",
     "name": "Unhealthy Fixation",
     "god": "Aphrodite",
-    "description": "weak effects also have a 15% chance to charm"
+    "description": "weak effects also have a 15% chance to charm",
+    "rarityData": {}
   },
   "Black Out (C)": {
     "id": "Black Out (C)",
     "name": "Black Out (C)",
     "god": "Dionysus",
-    "description": "hangover-afflicted foes take +100% bonus damage in festive fog"
+    "description": "hangover-afflicted foes take +100% bonus damage in festive fog",
+    "rarityData": {}
   },
   "Winter Harvest": {
     "id": "Winter Harvest",
     "name": "Winter Harvest",
     "god": "Demeter",
-    "description": "chill-affected foes shatter at 10% health, inflicting 50 damage and chill nearby"
+    "description": "chill-affected foes shatter at 10% health, inflicting 50 damage and chill nearby",
+    "rarityData": {}
   },
   "Greater Recall": {
     "id": "Greater Recall",
     "name": "Greater Recall",
     "god": "Hermes",
-    "description": "cast gems automatically return to you"
+    "description": "cast gems automatically return to you",
+    "rarityData": {}
   },
   "Defiance": {
     "id": "Defiance",
     "name": "Defiance",
     "god": "Chaos",
-    "description": "gain +1 death defiance"
+    "description": "gain +1 death defiance",
+    "rarityData": {}
   },
   "Bad News": {
     "id": "Bad News",
     "name": "Bad News",
-    "god": "Hermes"
+    "god": "Hermes",
+    "description": "",
+    "rarityData": {}
   }
 }
