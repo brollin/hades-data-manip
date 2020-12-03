@@ -41,12 +41,14 @@ for (i = HEADER_ROW; i < lastRow; i++) {
       continue;
     }
 
-    // Store new boon names
+    // Create new boons
     if ((i - HEADER_ROW - 1) % 6 === 0) {
       boons[cellData] = {
         id: cellData,
         name: cellData,
         god: colToGod[j],
+        description: "",
+        rarityData: {},
       };
       colToBoon[j] = cellData;
       continue;
@@ -60,15 +62,17 @@ for (i = HEADER_ROW; i < lastRow; i++) {
 
     // Otherwise, this is rarity-specific data for the boon
     if ((i - HEADER_ROW - 3) % 6 === 0) {
-      boons[colToBoon[j]].common = cellData;
+      boons[colToBoon[j]].rarityData.common = cellData;
     } else if ((i - HEADER_ROW - 4) % 6 === 0) {
-      boons[colToBoon[j]].rare = cellData;
+      boons[colToBoon[j]].rarityData.rare = cellData;
     } else if ((i - HEADER_ROW - 5) % 6 === 0) {
-      boons[colToBoon[j]].epic = cellData;
+      boons[colToBoon[j]].rarityData.epic = cellData;
     } else if ((i - HEADER_ROW - 6) % 6 === 0) {
-      boons[colToBoon[j]].heroic = cellData;
+      boons[colToBoon[j]].rarityData.heroic = cellData;
     }
   }
 }
 
 console.log("Boons", boons);
+
+fs.writeFileSync("output/hades.json", JSON.stringify(boons));
